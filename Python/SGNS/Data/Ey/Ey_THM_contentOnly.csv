@@ -1,0 +1,449 @@
+Number,Sentence
+1,기업__01/NNG 에/JKB 대하__02/VV 믿음/NNG
+2,콩/NNG 씨__01/NNG 에/JKB 잎/NNG 나오/VV
+3,어머니/NNG 편지__02/NNG 에/JKB 말__01/NNG 없/VA
+4,소설__03/NNG 에/JKB 주인공/NNG 나오/VV
+5,문법__01/NNG 맞춤법/NNG 구두점/NNG 에/JKB 잘못/NNG 없/VA
+6,아내__01/NNG 목소리/NNG 에/JKB 울음/NNG 섞이/VV
+7,다리__01/NNG 에/JKB 금__02/NNG 가/VV
+8,모성__01/NNG 에/JKB 대하__02/VV 자각__03/NNG
+9,경제__04/NNG 에/JKB 기적__03/NNG 없/VA
+10,그이/NP 에/JKB 대하__02/VV 최초/NNG 배신감/NNG
+11,자기/NP 주장__03/NNG 에/JKB 대하__02/VV 자긍심/NNG
+12,영화__01/NNG 에/JKB 대하__02/VV 뒤아멜/NNP 정의__05/NNG
+13,그러나/MAJ 우리/NP 곧/MAG 푸들/NNG 에/JKB 싫증/NNG 나/VV
+14,술잔/NNG 에/JKB 입술/NNG 쩍쩍__02/MAG 달라붙/VV 진양주/NNG
+15,국어/NNG 에/JKB 대하__02/VV 충성심/NNG 곧/MAG 애국심/NNG
+16,존재/NNG 에/JKB 대하__02/VV 혐오__02/NNG
+17,나/NP 역시/MAG 최수진/NNP 마음__01/NNG 에/JKB 들__01/VV
+18,맛__01/NNG 에/JKB 대하__02/VV 경쟁/NNG
+19,채송화/NNG 꽃__01/NNG 에/JKB 꽃__01/NNG 피__01/VV 시작__01/NNG
+20,하늘/NNG 세상사/NNG 에/JKB 관심__01/NNG 없/VA
+21,봉선화/NNG 에/JKB 잎/NNG 나오/VV
+22,한탄/NNG 것/NNB 실록/NNG 에/JKB 나오/VV
+23,마침/MAG 옆/NNG 탁자__01/NNG 에/JKB 신문__10/NNG 놓이/VV
+24,미스__03/NNG 김/NNP 주전자/NNG 에/JKB 물__01/NNG 없/VA
+25,우상__04/NNG 에/JKB 대하__02/VV 동경__08/NNG
+26,형기/NNP 목소리/NNG 에/JKB 힘__01/NNG 없/VA
+27,그러나/MAJ 서장__07/NNG 목소리/NNG 에/JKB 힘__01/NNG 없/VA
+28,봉선화/NNG 에/JKB 아직/MAG 꽃__01/NNG 안/MAG 나오/VV
+29,그녀/NP 목소리/NNG 에/JKB 목울음/NNG 섞이/VV
+30,입맛/NNG 에/JKB 우열__06/NNG 없/VA
+31,과학/NNG 에/JKB 국경__01/NNG 없/VA
+32,선우/NNP 에/JKB 대하__02/VV 미안__01/NNG 때문/NNB
+33,학술/NNG 연구__03/NNG 에/JKB 대하__02/VV 최고__02/NNG 학위/NNG
+34,차라리/MAG 열무김치/NNG 에/JKB 보리밥/NNG 낫__02/VA
+35,유희선/NNP 안계희/NNP 씨/NNB 말__01/NNG 에/JKB 동감__01/NNG 가/VV
+36,말__01/NNG 에/JKB 세금__01/NNG 붙/VV
+37,그/NP 에/JKB 대하__02/VV 믿음/NNG
+38,녀석/NNB 에/JKB 대하__02/VV 바람__01/NNG 오직__01/MAG 하나/NR
+39,여가__03/NNG 에/JKB 대하__02/VV 시각__04/NNG
+40,문명__03/NNG 에/JKB 대하__02/VV 반항__01/NNG
+41,과일__01/NNG 에/JKB 영양가/NNG 별로/MAG 없/VA
+42,그러나/MAJ 왠지/MAG 말소리/NNG 에/JKB 힘__01/NNG 없/VA
+43,외지__03/NNG 지주__03/NNG 농사__01/NNG 에/JKB 관심__01/NNG 없/VA
+44,옷/NNG 에/JKB 이슬/NNG 묻__01/VV
+45,이/NP 에/JKB 대하__02/VV 판례/NNG
+46,그때/NNG 갑자기/MAG 골목__01/NNG 외등__02/NNG 에/JKB 불__01/NNG 들어오/VV
+47,감동__02/NNG 사물__10/NNG 에/JKB 대하__02/VV 느낌/NNG 반응/NNG
+48,상대방__02/NNG 에/JKB 대하__02/VV 배려__02/NNG
+49,저/NP 일__01/NNG 에/JKB 관심__01/NNG 없/VA
+50,그런데/MAJ 진인__02/NNG 이야기/NNG 에/JKB 결말/NNG 없/VA
+51,이야기/NNG 에/JKB 사람/NNG 나오/VV
+52,침해/NNG 에/JKB 대하__02/VV 금지__04/NNG 명령__01/NNG
+53,커피색/NNG 얼룩/NNG 벽지__01/NNG 에/JKB 남/VV
+54,그러나/MAJ 선거__04/NNG 에/JKB 대하__02/VV 관심__01/NNG 너무나/MAG 저조__02/NNG
+55,이/NP 에/JKB 대하__02/VV 훈련/NNG 반드시/MAG 필요/NNG
+56,추석__01/NNG 아침/NNG 한복/NNG 차림/NNG 에/JKB 화장__02/NNG 좋/VA
+57,식사__03/NNG 에/JKB 대하__02/VV 문제__06/NNG 마찬가지/NNG
+58,물음__01/NNG 에/JKB 칠팔/NR 명/NNB 독서__03/NNG 하/VV
+59,몸__01/NNG 에/JKB 열__07/NNG 나/VV
+60,나/NP 에/JKB 대하__02/VV 신경__04/NNG
+61,자유__03/NNG 민주주의/NNG 에/JKB 대하__02/VV 시각__04/NNG 긍정/NNG
+62,맛__01/NNG 모양__02/NNG 에/JKB 차별/NNG 없/VA
+63,사회__07/NNG 진출__02/NNG 에/JKB 대하__02/VV 정보__06/NNG 필요/NNG
+64,그러나/MAJ 독감__01/NNG 에/JKB 특효약/NNG 없/VA
+65,미래인/NNG 따위/NNB 에/JKB 관심__01/NNG 없/VA
+66,계급__02/NNG 계층/NNG 에/JKB 대하__02/VV 이론__01/NNG 맑스/NNP
+67,조광조/NNP 일당/NNG 에/JKB 대하__02/VV 심문__03/NNG 진행__02/NNG
+68,강의/NNG 에/JKB 대하__02/VV 지식__02/NNG
+69,사람/NNG 새끼줄/NNG 에/JKB 돈__01/NNG 끼우__01/VV
+70,담__01/NNG 에/JKB 금__02/NNG 가/VV
+71,노래방/NNG 에/JKB 일본/NNP 정신__12/NNG 깃들/VV
+72,연습__03/NNG 에/JKB 대하__02/VV 교사__09/NNG 태도__03/NNG 문제__06/NNG
+73,돈__01/NNG 에/JKB 세상__01/NNG 다/MAG 담기__01/VV
+74,물음__01/NNG 에/JKB 대하__02/VV 답__03/NNG 소설__03/NNG 형식__01/NNG
+75,생명/NNG 힘__01/NNG 에/JKB 없/VA
+76,그러나/MAJ 요즈음/NNG 대중가요/NNG 에/JKB 것/NNB 없/VA
+77,하지만/MAJ 역사__04/NNG 에/JKB 가정법/NNG 없/VA
+78,그래서/MAJ 역사__04/NNG 에/JKB 고민/NNG 없/VA
+79,축사__04/NNG 에/JKB 면장__02/NNG 번/NNB 올라가/VV
+80,건강__03/NNG 에/JKB 안/MAG 좋/VA
+81,텅잉/NNG 에/JKB 다음__01/NNG 가지/NNB 방법/NNG 있/VV
+82,이제/MAG 일__01/NNG 에/JKB 자신__02/NNG 없/VA 거/NNB
+83,그때/NNG 당신/NP 마음__01/NNG 에/JKB 그림자/NNG 있/VV
+84,말__01/NNG 에/JKB 일리__03/NNG 있/VV
+85,세호/NNP 아버지/NNG 담배/NNG 에/JKB 불__01/NNG 붙이/VV
+86,그것/NP 역시/MAG 콴트릴/NNP 특공대/NNG 에/JKB 대하__02/VV 얘기/NNG
+87,커튼/NNG 에/JKB 호화__02/NNG 사치세/NNG 매기/VV
+88,그녀/NP 살갗/NNG 에/JKB 소름/NNG 까슬까슬/MAG 돋__01/VV
+89,디자인/NNG 미술/NNG 유학__04/NNG 에/JKB 매우/MAG 좋/VA 운__06/NNG
+90,따라서/MAJ 술__01/NNG 위장병__02/NNG 에/JKB 크/VA 적__13/NNG
+91,그래서/MAJ 주인__01/NNG 손__01/NNG 에/JKB 쥐__01/VV
+92,발바닥/NNG 에/JKB 습기__02/NNG 들러붙/VV
+93,고백/NNG 에/JKB 고통/NNG 따르__01/VV
+94,우리말/NNG 에/JKB 진퇴양난/NNG 같/VA 경우__03/NNG
+95,우리/NP 어머니/NNG 그림__01/NNG 에/JKB 재능/NNG 있/VV
+96,말__01/NNG 맹자/NNP 에/JKB 나오/VV
+97,플라톤/NNP 향연/NNP 에/JKB 쓰__01/VV
+98,주로/MAG 원두커피/NNG 아이스커피/NNG 에/JKB 이용__01/NNG 좋/VA
+99,가정__06/NNG 에/JKB 있/VV 마찬가지/NNG
+100,주사__13/NNG 카메라/NNG 출동/NNG 에/JKB 나오/VV 거/NNB
+101,삶/NNG 에/JKB 모범__02/NNG 답안/NNG 없/VA
+102,흡연/NNG 에/JKB 대하__02/VV 것/NNB
+103,저작__03/NNG 에/JKB 관하__02/VV 그린/NNG 페이퍼/NNG
+104,식물__02/NNG 에/JKB 관하__02/VV 근래/NNG 책__01/NNG 중__04/NNB 압권/NNG
+105,그/NP 그것/NP 에/JKB 희망/NNG 걸__02/VV
+106,왜/MAG 인물/NNG 이야기/NNG 에/JKB 관심__01/NNG 가지/VV
+107,이/NP 에/JKB 대하__02/VV 갑__02/NNG 다시/MAG 제기__06/NNG
+108,참으로/MAG 귀/NNG 에/JKB 젖__01/VV 종/NNG 소리__01/NNG
+109,커피/NNG 에/JKB 뽕__01/NNG 타__03/VV
+110,오소리/NNG 꽃신__01/NNG 원숭이/NNG 발__01/NNG 에/JKB 끼우__01/VV
+111,상덕/NNP 석유__01/NNG 램프__01/NNG 에/JKB 불__01/NNG 켜__01/VV
+112,첫째/NR 어머니/NNG 손__01/NNG 에/JKB 무엇/NP 들려주/VV
+113,천기백/NNP 선생__01/NNG 직위/NNG 해제__03/NNG 에/JKB 대하__02/VV 우리/NP 입장__04/NNG
+114,자기/NP 체면__02/NNG 에/JKB 손상/NNG 가/VV
+115,환경__02/NNG 문제__06/NNG 에/JKB 관하__02/VV 책__01/NNG
+116,아버지/NNG 가마솥/NNG 에/JKB 장작불/NNG 지피__02/VV
+117,다음__01/NNG 관광__02/NNG 산업/NNG 에/JKB 관하__02/VV 책__01/NNG
+118,여자__02/NNG 낭만/NNG 에/JKB 약하/VA
+119,삼국사기/NNP 에/JKB 있/VV 기록__02/NNG
+120,책__01/NNG 에/JKB 낙서__03/NNG 말__03/VV
+121,글/NNG 그것/NP 에/JKB 대하__02/VV 고백/NNG
+122,대중__02/NNG 위하__01/VV 문화__01/NNG 에/JKB
+123,메모지/NNG 에/JKB 다음__01/NNG 같이/MAG 씌__02/VV
+124,토끼/NNG 형제__01/NNG 지금__03/MAG 책__01/NNG 에/JKB 빠지__02/VV
+125,나/NP 제의__04/NNG 에/JKB 윤재홍/NNP 대답/NNG 망설이/VV
+126,나/NP 활자__01/NNG 에/JKB 반하__01/VV
+127,차__06/NNG 에/JKB 타__02/VV
+128,둘째/NR 사물__10/NNG 운동__02/NNG 에/JKB 이유__04/NNG 있/VV
+129,굴절__01/NNG 이상__05/NNG 시력__01/NNG 에/JKB 관하/VV 기능__03/NNG 이상__12/NNG
+130,사실/MAG 운동__02/NNG 에/JKB 관심__01/NNG 없/VA 것/NNB
+131,셋째/NR 극빈/NNG 계층/NNG 에/JKB 대하__02/VV 접촉/NNG
+132,말__01/NNG 연애__05/NNG 에/JKB 관하__02/VV 진리/NNG
+133,그리고/MAJ 로렌츠/NNP 변환식/NNG 에/JKB 대하__02/VV 불변__02/NNG
+134,본능/NNG 남편__01/NNG 에/JKB 대하__02/VV 의무__01/NNG
+135,해숙/NNP 에/JKB 관하__02/VV 이전__03/NNG 정보__06/NNG 역시/MAG
+136,국조오례의/NNP 조선/NNP 시대__02/NNG 오례/NNG 에/JKB 관하/VV 책__01/NNG
+137,갑자기/MAG 상준이/NNP 귀신__01/NNG 에/JKB 홀리/VV 기분/NNG
+138,스포츠/NNG 중계__04/NNG 뉴스/NNG 에/JKB 영향__04/NNG 미치__02/VV
+139,권리/NNG 침해/NNG 에/JKB 대하__02/VV 구제__01/NNG 수단__01/NNG
+140,성삼이/NNP 나무__01/NNG 에/JKB 올라가/VV 차례__01/NNG
+141,나/NP 수없이/MAG 말__01/NNG 수첩__01/NNG 에/JKB 적__01/VV
+142,업무__02/NNG 집행/NNG 에/JKB 관하__02/VV 사항__02/NNG
+143,물론/MAG 이론__01/NNG 에/JKB 정도__11/NNG 차이/NNG 있/VV
+144,문제__06/NNG 결혼/NNG 에/JKB 대하__02/VV 애__02/NNG 태도__03/NNG
+145,영순이/NNP 갑자기/MAG 다리__01/NNG 에/JKB 힘__01/NNG 쭉/MAG 빠지__01/VV
+146,그리고/MAJ 그/NP 자신__01/NNG 사랑__01/NNG 에/JKB 대하__02/VV 확인__02/NNG
+147,자전거/NNG 에/JKB 눈__01/NNG 멀/VV 노마/NNP
+148,정빈/NNP 에/JKB 관하__02/VV 아버지/NNG 설명/NNG
+149,모두__01/NNG 돈__01/NNG 에/JKB 걸신__02/NNG 들리__01/VV
+150,돈__01/NNG 에/JKB 환장/NNG 하/VV
+151,삶/NNG 자체__02/NNG 에/JKB 열정__02/NNG 가지/VV 사람/NNG
+152,봄볕/NNG 에/JKB 취하__03/VV
+153,말__01/NNG 에/JKB 반드시/MAG 목적__03/NNG 있/VV
+154,주간한국/NNP 에/JKB 기사__10/NNG 나/VV 모양__02/NNG
+155,라디오/NNG 텔레비전/NNG 에/JKB 나오/VV 연예인/NNG 마찬가지/NNG
+156,책__01/NNG 에/JKB 원한/NNG 있/VV
+157,수학__03/NNG 능력__02/NNG 시험__03/NNG 논술/NNG 고사__09/NNG 에/JKB 대하__02/VV 압박감/NNG
+158,컴퓨터/NNG 잠재력/NNG 에/JKB 대하__02/VV 정보__06/NNG 부족__01/NNG
+159,언제나/MAG 속옷/NNG 에/JKB 향수__04/NNG 뿌리/VV 것/NNB
+160,우리/NP 고향__02/NNG 에/JKB 집착__02/NNG 민족/NNG 드물/VA
+161,범인__02/NNG 검거__02/NNG 에/JKB 관하__02/VV 기사__10/NNG
+162,물음__01/NNG 에/JKB 상호__04/NNG 군/NNB 이렇/VA 대답/NNG
+163,그것/NP 인간__01/NNG 에/JKB 대하__02/VV 믿음/NNG 때문/NNB
+164,할머니/NNG 종이__01/NNG 상자__10/NNG 손수레/NNG 에/JKB 싣/VV
+165,가령/MAG 그녀/NP 몸무게/NNG 에/JKB 대하__02/VV
+166,이사__11/NNG 감사__12/NNG 선출__02/NNG 에/JKB 관하__02/VV 사항__02/NNG
+167,하지만/MAJ 곧/MAG 학습/NNG 과제__04/NNG 에/JKB 마음__01/NNG 돌리__04/VV
+168,사랑__01/NNG 에/JKB 이유__04/NNG 따위/NNB 없/VA 것/NNB
+169,쟤/NP 워낙/MAG 햄릿/NNP 에/JKB 미치__01/VV 애__02/NNG
+170,이/NP 에/JKB 대하__02/VV 그녀/NP 강력히/MAG 항의__01/NNG
+171,문__05/NNG 에/JKB 노크/NNG 하/VV
+172,바로/MAG 그것/NP 에/JKB 대하__02/VV 생각__01/NNG
+173,문서/NNG 에/JKB 바탕색/NNG 넣/VV 것/NNB
+174,둘째/NR 외침__02/NNG 에/JKB 대하__02/VV 적극/NNG 대응__02/NNG 것/NNB
+175,이/NP 에/JKB 대하__02/VV 잉켈스/NNP
+176,그/NP 에/JKB 대하__02/VV 저항/NNG
+177,수입세/NNG 수입__02/NNG 상품__03/NNG 에/JKB 대하__02/VV 부과__05/NNG 관세__03/NNG
+178,첫째/NR 한__05/NNG 에/JKB 관하/VV 것/NNB
+179,시__13/NNG 에/JKB 관하__02/VV 이해__06/NNG
+180,후__08/NNG 물품/NNG 에/JKB 바코드/NNG 붙이/VV
+181,세상__01/NNG 에/JKB 대하__02/VV 마찬가지/NNG
+182,주요__01/NNG 대안__05/NNG 우선/MAG 정부__08/NNG 시책__01/NNG 에/JKB 대하__02/VV 장__14/NNG
+183,사업__04/NNG 계획__01/NNG 운영__03/NNG 에/JKB 관하__02/VV 사항__02/NNG
+184,그러나/MAJ 사회__07/NNG 에/JKB 대하__02/VV 반대__03/NNG
+185,최상__02/NNG 교육/NNG 노력__01/NNG 에/JKB 정열/NNG 쏟/VV
+186,것/NNB 에/JKB 대하__02/VV 그리움/NNG 말__01/NNG
+187,적어도/MAG 아내__01/NNG 에/JKB 대하__02/VV
+188,팀/NNG 팀/NNG 에/JKB 대하__02/VV 반론/NNG
+189,직업/NNG 에/JKB 대하__02/VV 준비/NNG 과정__03/NNG
+190,전깃줄/NNG 에/JKB 바람__01/NNG 스치__01/VV 소리__01/NNG
+191,회칙__02/NNG 변경__04/NNG 에/JKB 관하__02/VV 사항__02/NNG
+192,국회/NNG 운영__03/NNG 위원장/NNG 직__06/NNG 민주당/NNP 에/JKB 내주/VV
+193,노래__01/NNG 에/JKB 록__03/NNG 요소__04/NNG 거의/MAG 없/VA
+194,국기__07/NNG 에/JKB 대하__02/VV 경례/NNG
+195,그때/NNG 연__11/NNG 에/JKB 손__01/NNG 대__01/VV 것/NNB
+196,처음/NNG 좌중/NNG 에/JKB 웃음/NNG 터지/VV
+197,첫째/NR 노동__03/NNG 탄압/NNG 에/JKB 대하__02/VV 침묵/NNG
+198,양귀비/NNP 에/JKB 대하__02/VV 그/NP 무덤/NNG 셋/NR
+199,영우/NNP 사랑__01/NNG 에/JKB 굶주리/VV 아이__01/NNG
+200,웃음/NNG 소리__01/NNG 전화기/NNG 에/JKB 불빛/NNG 차오르/VV
+201,나무__01/NNG 에/JKB 기대__01/VV 사람/NNG 다시/MAG 키스/NNG
+202,창가__01/NNG 에/JKB 신랑__02/NNG 뒷모습/NNG 보이__01/VV
+203,나/NP 에/JKB 대하__02/VV
+204,오렌지/NNG 주스/NNG 에/JKB 고급__02/NNG 바람__01/NNG 불__01/VV
+205,그/NP 유리__10/NNG 벽__06/NNG 에/JKB 얼굴/NNG 바짝/MAG 붙이/VV
+206,등__05/NNB 에/JKB 영향__04/NNG 주/VV
+207,책__01/NNG 에/JKB 주판__02/NNG 설명/NNG 있/VV
+208,시__13/NNG 에/JKB 관하__02/VV 통념__01/NNG
+209,인형__01/NNG 에/JKB 생동감/NNG 있/VV
+210,평의원/NNG 보선__05/NNG 에/JKB 관하__02/VV 사항__02/NNG
+211,김현/NNP 의식__03/NNG 자체__02/NNG 에/JKB 온몸/NNG 매달/VV
+212,그리고/MAJ 나머지/NNG 책임/NNG 분명/MAG 책__01/NNG 에/JKB 있/VV
+213,많/VA 사람/NNG 발기인/NNG 에/JKB 서명__03/NNG
+214,그러나/MAJ 철학/NNG 문제__06/NNG 에/JKB 손__01/NNG 대__01/VV
+215,이것/NP 결혼식/NNG 에/JKB 들__01/VV 것/NNB
+216,그때/NNG 둘/NR 일__01/NNG 에/JKB 한사코/MAG 매달리/VV
+217,일__01/NNG 에/JKB 나/NP 관심__01/NNG 없/VA
+218,철__06/NNG 에/JKB 니켈/NNG 크롬/NNG 섞/VV 합금/NNG
+219,정부__08/NNG 채권단/NNG 에/JKB 바라/VV 것/NNB
+220,술__01/NNG 에/JKB 취하__03/VV
+221,이/NP 에/JKB 대하__02/VV 파우스트/NNP 말__01/NNG
+222,편지__02/NNG 에/JKB 반드시/MAG 상대__04/NNG 있/VV
+223,인류__01/NNG 전쟁/NNG 에/JKB 종지부/NNG 찍__02/VV
+224,문학__01/NNG 에/JKB 있/VV 자유__03/NNG 보장__01/NNG
+225,터널/NNG 에/JKB 반드시/MAG 끝/NNG 있/VV
+226,잿밥/NNG 에/JKB 마음__01/NNG 쏠리/VV 중__01/NNG
+227,이어서/MAG 학교/NNG 에/JKB 대하__02/VV 이야기/NNG
+228,모두/NNG 모두__01/NNG 줄__01/NNG 에/JKB 미치__01/VV 듯/NNB
+229,아래__01/NNG 속눈썹/NNG 에/JKB 살짝/MAG 마스카라/NNG 바르__01/VV
+230,다시/MAG 에/JKB 대하__02/VV 생각__01/NNG
+231,편지__02/NNG 에/JKB 것/NNB 쓰__01/VV
+232,아시안/NNG 게임/NNG 에/JKB 대하__02/VV 각오__01/NNG
+233,자가__01/NNG 임신__02/NNG 진단__02/NNG 시약__03/NNG 에/JKB 문제__06/NNG 많/VA
+234,세상__01/NNG 에/JKB 외치__01/VV
+235,가령/MAG 에/JKB 대하__02/VV
+236,이/NP 에/JKB 대하__02/VV 미국/NNP 영화__01/NNG 학자__01/NNG
+237,과연__01/MAG 한국인/NNG 생리__03/NNG 나눗셈/NNG 에/JKB 밝/VA
+238,자신__01/NNG 사회__07/NNG 교육/NNG 에/JKB 대하__02/VV
+239,그/NP 혼숙/NNG 에/JKB 대하__02/VV
+240,나/NP 에/JKB 대하__02/VV
+241,에/JKB 대하__02/VV 생각__01/NNG
+242,너/NP 돈__01/NNG 에/JKB 미치__01/VV
+243,하나/NR 임진왜란/NNG 에/JKB 대하__02/VV 평가__03/NNG
+244,고향__02/NNG 아기__01/NNG 에/JKB 대하__02/VV 그리움/NNG
+245,아내__01/NNG 꿍꿍이속/NNG 여성__01/NNG 에/JKB 대하__02/VV 미__14/NNG 쾌감/NNG
+246,전설__04/NNG 에/JKB 가지/NNB 판본/NNG 있/VV
+247,문학__01/NNG 작품__01/NNG 에/JKB 정답/NNG 있/VV
+248,곧/MAG 벼/NNG 에/JKB 노랑__01/NNG 방울__01/NNG 들__01/VV 것/NNB
+249,나/NP 대마초/NNG 에/JKB 불__01/NNG 붙이/VV
+250,우려/NNG 에/JKB 대하__02/VV 얘기/NNG
+251,맥박/NNG 변화/NNG 맥박/NNG 에/JKB 변화/NNG 있/VV
+252,그림__01/NNG 삽화__02/NNG 에/JKB 대하__02/VV
+253,독니/NNG 에/JKB 다음__01/NNG 종류/NNG 있/VV
+254,제목__02/NNG 에/JKB 대하__02/VV
+255,사람/NNG 마지막/NNG 거짓말/NNG 일기__12/NNG 에/JKB 쓰__01/VV
+256,현관문/NNG 에/JKB 열쇠/NNG 꽂/VV 때__01/NNG
+257,그러나/MAJ 그/NP 슈만/NNP 잡음__02/NNG 에/JKB 묻히__02/VV
+258,그것/NP 곧/MAG 자신__01/NNG 에/JKB 대하__02/VV 혐오__02/NNG
+259,거울__01/NNG 에/JKB 비치__01/VV 나/NP 모습__01/NNG 완전/NNG 아줌마/NNG
+260,민생/NNG 치안/NNG 문제__06/NNG 에/JKB 이르__01/VV 또/MAG
+261,결국/NNG 로마/NNP 에/JKB 저항/NNG 되__01/VV
+262,편지__02/NNG 에/JKB 설명/NNG 있/VV
+263,일본/NNP 소니/NNP 한국/NNP 삼성/NNP 에/JKB 따라잡히/VV 이유__04/NNG
+264,또/MAJ 포/NNG 에/JKB 홍색/NNG 점__10/NNG 문양__01/NNG 있/VV
+265,이/NP 에/JKB 대하__02/VV 부장__07/NNG
+266,돌개/NNP 에/JKB 원한/NNG 많/VA 사람/NNG
+267,종이__01/NNG 에/JKB 개/NNB 면__05/NNG 있/VV
+268,오히려/MAJ 더/MAG 거꾸로/MAG 현실__02/NNG 에/JKB 가깝/VA
+269,몸__01/NNG 에/JKB 좋/VA 유황/NNG 오리__03/NNG
+270,오늘/NNG 빨래/NNG 에/JKB 풀__01/NNG 하/VV
+271,물론/MAG 가로__01/NNG 조직/NNG 에/JKB 대하__02/VV 것/NNB
+272,무기물/NNG 에/JKB 생명/NNG 있/VV
+273,말__01/NNG 에/JKB 결코/MAG 지우개/NNG 없/VA
+274,예산__02/NNG 결산/NNG 작성__01/NNG 및/MAG 집행/NNG 에/JKB 관하__02/VV 사항__02/NNG
+275,이용__01/NNG 에/JKB 가지/NNB 뜻/NNG 담기__01/VV
+276,세계__02/NNG 에/JKB 대하__02/VV 시각__04/NNG
+277,설비__02/NNG 투자__02/NNG 에/JKB 돈__01/NNG 쓰__03/VV 것/NNB
+278,엄격히/MAG 말__01/NNG 시__13/NNG 에/JKB 의미/NNG 없/VA
+279,맛__01/NNG 에/JKB 대하__02/VV 말__01/NNG
+280,세네갈/NNP 토니/NNP 실바/NNP 그/NP 에/JKB 못지않/VA
+281,선택/NNG 가치__06/NNG 에/JKB 대하__02/VV 결단__01/NNG
+282,둘째/NR 옷/NNG 에/JKB 반드시/MAG 남녀/NNG 구별__02/NNG 있/VV
+283,전군__01/NNG 에/JKB 비상__01/NNG 경계령/NNG 내려지/VV
+284,톰/NNP 소여/NNP 담장__01/NNG 에/JKB 페인트칠/NNG 하/VV
+285,아이__01/NNG 바늘구멍/NNG 에/JKB 한쪽/NNG 눈__01/NNG 붙이/VV
+286,김병현/NNP 야구__02/NNG 에/JKB 대하__02/VV 열정__02/NNG 특별/NNG
+287,손__01/NNG 입/NNG 에/JKB 대__01/VV
+288,때__01/NNG 경추__02/NNG 번/NNB 에/JKB 이상__12/NNG 생기/VV
+289,그러나/MAJ 그것/NP 영화__01/NNG 에/JKB 있/VV 마찬가지/NNG
+290,바로/MAG 명희/NNG 누나/NNG 에/JKB 대하__02/VV 것/NNB
+291,하긴/MAG 공순이/NNG 대학__01/NNG 에/JKB 약하/VA
+292,이제/MAG 막__01/MAG 차__06/NNG 에/JKB 태우__02/VV 참/NNB
+293,행동/NNG 태도__03/NNG 및/MAG 대화__06/NNG 에/JKB 역점__01/NNG 두/VV
+294,이/NP 에/JKB 대하__02/VV 말__01/NNG 그대로/MAG 소리__01/NNG
+295,약속/NNG 에/JKB 의하/VV 자백__01/NNG
+296,그것/NP 에/JKB 관하__02/VV 증거/NNG 너무나/MAG 빈약/NNG
+297,실상/MAG 문화__01/NNG 예술/NNG 에/JKB 과열__01/NNG 없/VA
+298,먼저/MAG 분단__03/NNG 에/JKB 대하__02/VV 고찰__02/NNG
+299,그녀/NP 아버지/NNG 딸자식/NNG 에/JKB 대하__02/VV 교육관/NNG
+300,그러면/MAJ 상속세/NNG 우선__07/NNG 에/JKB 관하__02/VV 설명/NNG
+301,너/NP 에/JKB 대하__02/VV
+302,식구__01/NNG 족구/NNG 에/JKB 빠지__02/VV
+303,미려/NNP 시__13/NNG 에/JKB 관심__01/NNG 있/VV
+304,바로/MAG 사랑__01/NNG 에/JKB 대하__02/VV 노래__01/NNG
+305,특히/MAG 칭찬/NNG 말__01/NNG 에/JKB 만족__01/NNG 모르/VV
+306,한국/NNP 시장__04/NNG 에/JKB 관심__01/NNG 가지/VV 배경__01/NNG
+307,관리__04/NNG 에/JKB 허점/NNG 생기/VV 것/NNB
+308,일__01/NNG 에/JKB 요한/NNP 뛰어들/VV 것/NNB
+309,여성__01/NNG 운동__02/NNG 에/JKB 대하__02/VV 잠깐/MAG 이야기/NNG
+310,것/NNB 에/JKB 나/NP 부들부들__01/MAG 떨/VV
+311,문제__06/NNG 여기/NP 에/JKB 있/VV
+312,그런데/MAJ 수입__01/NNG 에/JKB 종류__02/NNG 있/VV
+313,민주당/NNP 개혁/NNG 문제__06/NNG 에/JKB 대하__02/VV 생각__01/NNG
+314,사람/NNG 에/JKB 대하__02/VV 미움/NNG
+315,이/NP 에/JKB 대하__02/VV 의견__01/NNG
+316,그리고/MAJ 이/NP 에/JKB 대하__02/VV 제재/NNG 항상/MAG 제자리걸음/NNG
+317,잡음__02/NNG 에/JKB 대하__02/VV 잡음__02/NNG
+318,인도/NNP 마우리아/NNP 왕조__02/NNG 아소카왕/NNP 정복__02/NNG 전쟁/NNG 에/JKB 나서/VV
+319,그저/MAG 운명__01/NNG 에/JKB 맡기/VV 수__02/NNB
+320,당분간/MAG 숨__01/VV 에/JKB 안성맞춤/NNG
+321,우선/MAG 수입__01/NNG 에/JKB 대하__02/VV 기대__03/NNG 때문/NNB
+322,생명/NNG 기원__05/NNG 에/JKB 있/VV
+323,그러나/MAJ 날짜__01/NNG 에/JKB 좀/MAG 불만/NNG 있/VV
+324,무엇/NP 때문/NNB 에/JKB 글/NNG 쓰__01/VV
+325,아니/MAG 때__01/NNG 굴뚝/NNG 에/JKB 연기__09/NNG 나/VV
+326,솔직히/MAG 힘__01/NNG 에/JKB 버겁/VA
+327,선생__01/NNG 저/NP 눈__01/NNG 에/JKB 익/VA
+328,팜플렛/NNG 사회__07/NNG 윤리/NNG 에/JKB 대하__02/VV 도전__04/NNG
+329,석기/NNP 눈__01/NNG 에/JKB 익/VA 계장__03/NNG
+330,식지__02/NNG 에/JKB 붙/VV 밥풀/NNG
+331,새벽__01/NNG 조깅/NNG 에/JKB 걸리__01/VV 시간__04/NNG 대략/MAG 분__08/NNB
+332,그/NP 스포츠/NNG 에/JKB 재능/NNG 가지/VV 만능/NNG 스포츠맨/NNG
+333,모국어/NNG 에/JKB 겨레__01/NNG 피__02/NNG 섞이/VV
+334,게다가/MAG 언설/NNG 에/JKB 망념/NNG 따르/VV
+335,세입자/NNG 없/VA 농업/NNG 에/JKB 종사__09/NNG
+336,쪽__05/NNB 에/JKB 도__10/NNG 틀/VV 사람/NNG
+337,사람/NNG 대신__03/NNG 에/JKB 브로치__02/NNG 오/VV
+338,정우/NNP 몸__01/NNG 에/JKB 힘__01/NNG 쭉/MAG 빠지__01/VV
+339,나/NP 완쯔/NNG 패__02/NNG 에/JKB 걸__02/VV
+340,나르시스/NNG 아름답/VA 허상/NNG 에/JKB 불과/MAG
+341,생활/NNG 양식__04/NNG 에/JKB 차이/NNG 나/VV
+342,마치/MAG 복권__01/NNG 에/JKB 당첨/NNG 바라/VV 것/NNB
+343,매사__01/NNG 에/JKB 호기심/NNG 많/VA 아가씨/NNG
+344,명령__01/NNG 말투/NNG 귀__01/NNG 에/JKB 거슬리__01/VV
+345,얼굴/NNG 에/JKB 무수히/MAG 침방울/NNG 튀/VV
+346,아버지/NNG 눈__01/NNG 에/JKB 불__01/NNG 켜__01/VV
+347,첫째/NR 어머니/NNG 등__08/NNG 에/JKB 불__01/NNG 켜__01/VV
+348,예산__02/NNG 및/MAG 결산/NNG 승인__02/NNG 에/JKB 관하__02/VV 사항__02/NNG
+349,일__01/NNG 에/JKB 많이/MAG 들__01/VV
+350,돈__01/NNG 에/JKB 재미__01/NNG 없/VA
+351,나/NP 살인/NNG 사건__01/NNG 에/JKB 관심__01/NNG 있/VV
+352,그/NP 목소리/NNG 에/JKB 짜증/NNG 묻__01/VV
+353,나/NP 수리__17/NNG 에/JKB 자신__02/NNG 있/VV
+354,방송__01/NNG 아가씨/NNG 나무라/VV 나/NP 말__01/NNG 에/JKB
+355,금방/MAG 머리칼/NNG 에/JKB 염색__01/NNG 것/NNB 같/VA
+356,경락이/NNP 마무리/NNG 작업__01/NNG 에/JKB 박차__01/NNG 가하/VV
+357,그래서/MAJ 더욱/MAG 선물__03/NNG 에/JKB 신경__04/NNG 쓰이__03/VV
+358,국민학교/NNG 학생/NNG 리듬/NNG 합주__01/NNG 에/JKB 많이/MAG 쓰이__03/VV
+359,그러나/MAJ 독감__01/NNG 에/JKB 효력/NNG 있/VV
+360,아이__01/NNG 음성__02/NNG 에/JKB 눈물__01/NNG 묻__01/VV
+361,학교/NNG 운영__03/NNG 에/JKB 잘못/MAG 점__10/NNG 들__04/VV
+362,저/NP 아직/MAG 서울/NNP 지리__03/NNG 에/JKB 너무/MAG 어둡/VA
+363,자녀__01/NNG 일__01/NNG 에/JKB 신경__04/NNG 쓰__03/VV
+364,개인__02/NNG 자기/NP 행위/NNG 에/JKB 책임/NNG 있/VV
+365,그러므로/MAJ 이/NP 성행위/NNG 에/JKB 의미/NNG 두/VV
+366,대답/NNG 나/NP 목__01/NNG 에/JKB 매달리/VV
+367,나비스코/NNP 챔피언십/NNG 에/JKB 임하__02/VV 각오__01/NNG
+368,이/NP 에/JKB 현덕/NNP 이렇/VA 말__01/NNG
+369,그리고/MAJ 언제나/MAG 저/NP 계급의식/NNG 에/JKB 눈__01/NNG 뜨__05/VV
+370,고뿔/NNG 에/JKB 걸리__01/VV
+371,그래서/MAJ 나/NP 사업__04/NNG 에/JKB 자신__02/NNG 있/VV
+372,고장__11/NNG 나/VV 자전거/NNG 자동차/NNG 바퀴__01/NNG 휠/NNG 에/JKB 의자__03/NNG
+373,또한/MAG 우리/NP 우리/NP 성격__02/NNG 에/JKB 책임/NNG 있/VV
+374,댁/NNG 에/JKB 양심껏/MAG 살__01/VV
+375,글씨/NNG 그림__01/NNG 에/JKB 뛰어나/VA
+376,장래/NNG 지식__02/NNG 에/JKB 있/VV
+377,붉은곰팡이병/NNG 밀__03/NNG 보리__01/NNG 에/JKB 생기/VV 병__04/NNG 가지/NNB
+378,중국/NNP 사람/NNG 모두/MAG 한문__03/NNG 에/JKB 능하/VA
+379,여씨춘추/NNP 에/JKB 이야기/NNG 나오/VV
+380,넷째/NR 건강__03/NNG 에/JKB 신경__04/NNG 쓰__03/VV
+381,바로/MAG 생성/NNG 에/JKB 주의__07/NNG 기울이/VV
+382,표현법/NNG 에/JKB 주의__07/NNG 기울이/VV
+383,과히/MAG 이사__06/NNG 에/JKB 조고__11/NNG 겸하/VV 놈/NNB
+384,죽장__03/NNG 에/JKB 삿갓__01/NNG 쓰__02/VV 전국__03/NNG 방랑/NNG 김삿갓/NNP
+385,제목__02/NNG 시__13/NNG 에/JKB 쓸모/NNG 있/VV
+386,기관__11/NNG 주식__03/NNG 매수__02/NNG 에/JKB 머뭇거리/VV
+387,그/NP 신호등/NNG 에/JKB 발길/NNG 맡기/VV
+388,엉덩이/NNG 에/JKB 색칠/NNG 하/VV
+389,걸궁/NNG 창부__02/NNG 무동춤/NNG 에/JKB 상사소리/NNG 더/MAG 좋/VA
+390,하물며/MAJ 컴퓨터/NNG 에/JKB 있/VV
+391,시청__03/NNG 에/JKB 이미/MAG 자신__01/NNG 있/VV
+392,사실/MAG 나/NP 대답/NNG 에/JKB 둔하/VA 편__04/NNB
+393,정신__12/NNG 정신__12/NNG 에/JKB 영향__04/NNG 주/VV
+394,잘/MAG 읽/VV 물음__01/NNG 에/JKB 답__03/NNG
+395,자연__01/NNG 생각__01/NNG 자세__02/NNG 몸__01/NNG 에/JKB 배__01/VV
+396,받들/VV 봉__88/NNG 자__14/NNG 에/JKB 삼/NR 자__14/NNG
+397,동기__07/NNG 자극__01/NNG 해석__04/NNG 에/JKB 영향__04/NNG 하/VV
+398,잔뜩/MAG 술__01/NNG 에/JKB 취하__03/VV
+399,농사/NNG 에/JKB 힘쓰/VV 것/NNB
+400,시위__04/NNG 캠페인/NNG 에/JKB 쓰이__03/VV 음악__01/NNG
+401,꼬리__01/NNG 에/JKB 꼬리__01/NNG 문__05/NNG 고리__01/NNG 같/VA
+402,사랑__01/NNG 말__01/NNG 에/JKB 선입견/NNG 갖/VV
+403,어쨌든/MAG 일본/NNP 말__01/NNG 에/JKB 관하__02/VV 한__06/NNG 과민/NNG 반응/NNG
+404,플레이오프/NNG 에/JKB 대하__02/VV 대비__10/NNG
+405,첫째/NR 서정시/NNG 본질__02/NNG 에/JKB 관하__02/VV 것/NNB
+406,시__13/NNG 에/JKB 가지/NNB 힘__01/NNG 있/VV
+407,관객/NNG 무대__06/NNG 순정__03/NNG 에/JKB 굶주리/VV
+408,상민이/NNP 아저씨/NNG 아주머니/NNG 말__01/NNG 에/JKB 묻__03/VV
+409,지역__03/NNG 사회__07/NNG 에/JKB 대하__02/VV 봉사__03/NNG 또는/MAG 이윤/NNG 환원/NNG
+410,추상__01/NNG 작품__01/NNG 에/JKB 대하__02/VV 해설__03/NNG 역시/MAG
+411,환상__02/NNG 것/NNB 에/JKB 관심__01/NNG 많/VA
+412,영국/NNP 민요__02/NNG 에/JKB 많이/MAG 쓰이__03/VV
+413,사람/NNG 스스로/MAG 허깨비__01/NNG 에/JKB 속__01/VV
+414,문__08/NNG 합병증/NNG 에/JKB 것/NNB 있/VV
+415,유태인/NNG 것/NNB 에/JKB 대하__02/VV 무기__05/NNG
+416,갑자기/MAG 한기__03/NNG 온몸/NNG 에/JKB 스미/VV
+417,식욕/NNG 에/JKB 진실__02/NNG 있/VV 말__01/NNG
+418,우리나라/NNG 예술/NNG 특히/MAG 합창__01/NNG 에/JKB 약하/VA
+419,조리/VV 꼬치__01/NNG 등/NNB 에/JKB 이용__01/NNG
+420,그냥/MAG 현재__02/NNG 것/NNB 에/JKB 만족__01/NNG 살__01/VV
+421,구/NR 단__11/NNG 팀/NNG 초단__01/NNG 팀/NNG 에/JKB 역전__07/NNG 리드__01/NNG 잡__01/VV
+422,그리고/MAJ 그림__01/NNG 색깔/NNG 에/JKB 대하__02/VV 이야기/NNG
+423,등/NNB 에/JKB 유의__04/NNG 정하/VV
+424,그/NP 서로서로/NNG 에/JKB 대하__02/VV 관심__01/NNG
+425,그것/NP 고아/NNP 에/JKB 달리__01/VV
+426,그러나/MAJ 남성__01/NNG 이/NP 에/JKB 지__03/VV
+427,눈__01/NNG 에/JKB 익/VA 이정표__02/NNG
+428,스넬/NNP 법칙/NNG 빛/NNG 굴절__01/NNG 에/JKB 관하/VV 법칙/NNG
+429,여기/NP 음식/NNG 입/NNG 에/JKB 맞__01/VV
+430,단풍잎/NNG 눈__01/NNG 에/JKB 따갑/VA
+431,학습지/NNG 회사__04/NNG 에/JKB 도움/NNG 청하/VV 것/NNB
+432,공공__02/NNG 정보__06/NNG 에/JKB 대하__02/VV 접근/NNG 및/MAG 정부__08/NNG 조달__03/NNG 방법/NNG 개선__01/NNG
+433,분단국가/NNG 목적__03/NNG 에/JKB 가지/NNB 대안__03/NNG 있/VV
+434,수평면/NNG 연직선/NNG 에/JKB 대하__02/VV 수직__06/NNG 평면/NNG
+435,철학자/NNG 에/JKB 그것/NP 맡기/VV
+436,제목__02/NNG 반대__03/NNG 의문__02/NNG 에/JKB 염려/NNG 하/VV
+437,누구/NP 그러/VV 위암__02/NNG 에/JKB 특효/NNG
+438,현대건설/NNP 도로__07/NNG 공사__07/NNG 에/JKB 완패/NNG 두/VV 뒷말__01/NNG
+439,실망__02/NNG 온몸/NNG 에/JKB 번지__01/VV
+440,부인__01/NNG 말__01/NNG 에/JKB 나/NP 잠자코/MAG 있/VV
+441,우리/NP 문학__01/NNG 경우__03/NNG 에/JKB 확실히/MAG 그렇/VA
+442,진실__02/NNG 에/JKB 저항/NNG 수__02/NNB 있/VV
+443,창조__03/NNG 재미있/VA 일__01/NNG 에/JKB
+444,산재__05/NNG 나/VV 회사__04/NNG 에/JKB 처리__02/NNG
+445,인사__02/NNG 에/JKB 응답/NNG 없/VA
+446,오/NNP 반장__08/NNG 말__01/NNG 에/JKB 힘__01/NNG 주/VV
+447,종교/NNG 자체__02/NNG 에/JKB 얽매이/VV
+448,요새__01/NNG 게임/NNG 에/JKB 빠지__02/VV

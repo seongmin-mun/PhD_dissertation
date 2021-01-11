@@ -1,0 +1,449 @@
+Number,Sentence
+1,기업__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 믿음/NNG ?/SF
+2,콩/NNG 씨__01/NNG 에/JKB 잎/NNG 이/JKS 나오/VV 았/EP 습니다/EF ./SF
+3,어머니/NNG 의/JKG 편지__02/NNG 에/JKB 그런/MM 말__01/NNG 이/JKS 없/VA 었/EP 던가/EF ?/SF
+4,소설__03/NNG 에/JKB 는/JX 주인공/NNG 이/JKS 나오/VV ᆫ다/EF ./SF
+5,문법__01/NNG ·/SP 맞춤법/NNG ·/SP 구두점/NNG 에/JKB 잘못/NNG 이/JKS 없/VA 는가/EF ?/SF
+6,아내__01/NNG 의/JKG 목소리/NNG 에/JKB 도/JX 울음/NNG 이/JKS 섞이/VV 었/EP 다/EF ./SF
+7,다리__01/NNG 에/JKB 금__02/NNG 이/JKS 가/VV 았/EP 어요/EF ./SF
+8,모성__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 자각__03/NNG 이/VCP 었/EP 을까/EF ?/SF
+9,경제__04/NNG 에/JKB 는/JX 기적__03/NNG 이/JKS 없/VA 다/EF ./SF
+10,그이/NP 에/JKB 대하__02/VV ᆫ/ETM 최초/NNG 의/JKG 배신감/NNG 이/VCP 었/EP 으니까/EF ./SF
+11,자기/NP 주장__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 자긍심/NNG ./SF
+12,영화__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 뒤아멜/NNP 의/JKG 정의__05/NNG 이/VCP 다/EF ./SF
+13,그러나/MAJ 우리/NP 는/JX 곧/MAG 푸들/NNG 에/JKB 싫증/NNG 이/JKS 나/VV 았/EP 다/EF ./SF
+14,술잔/NNG 에/JKB 입술/NNG 이/JKS 쩍쩍__02/MAG 달라붙/VV 는/ETM 진양주/NNG ./SF
+15,국어/NNG 에/JKB 대하__02/VV ᆫ/ETM 충성심/NNG 이/JKS 곧/MAG 애국심/NNG 이/VCP 다/EF ./SF
+16,존재/NNG 에/JKB 대하__02/VV ᆫ/ETM 지극/XR 하/XSA ᆫ/ETM 혐오__02/NNG ./SF
+17,나/NP 역시/MAG 최수진/NNP 이/JKS 마음__01/NNG 에/JKB 들__01/VV 지/EC 않/VX 았/EP 다/EF ./SF
+18,맛__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 경쟁/NNG 이/VCP 었/EP 다/EF ./SF
+19,채송화/NNG 꽃__01/NNG 에/JKB 꽃__01/NNG 이/JKS 피__01/VV 기/ETN 시작__01/NNG 하/XSV 았/EP 습니다/EF ./SF
+20,하늘/NNG 은/JX 세상사/NNG 에/JKB 관심__01/NNG 이/JKS 없/VA 다/EF ./SF
+21,봉선화/NNG 에/JKB 잎/NNG 이/JKS 나오/VV 았/EP 습니다/EF ./SF
+22,한탄/NNG 하/XSV 는/ETM 것/NNB 이/JKS 실록/NNG 에/JKB 나오/VV ᄇ니다/EF ./SF
+23,마침/MAG 옆/NNG 탁자__01/NNG 에/JKB 신문__10/NNG 이/JKS 놓이/VV 어/EC 있/VX 었/EP 다/EF ./SF
+24,"/SS 미스__03/NNG 김/NNP ,/SP 주전자/NNG 에/JKB 물__01/NNG 이/JKS 없/VA 어/EF ./SF "/SS
+25,우상__04/NNG 에/JKB 대하__02/VV ᆫ/ETM 동경__08/NNG ?/SF
+26,형기/NNP 의/JKG 목소리/NNG 에/JKB 도/JX 힘__01/NNG 이/JKS 없/VA 었/EP 다/EF ./SF
+27,그러나/MAJ 서장__07/NNG 의/JKG 목소리/NNG 에/JKB 는/JX 힘__01/NNG 이/JKS 없/VA 었/EP 다/EF ./SF
+28,봉선화/NNG 에/JKB 는/JX 아직/MAG 꽃__01/NNG 이/JKS 안/MAG 나오/VV 았/EP 습니다/EF ./SF
+29,그녀/NP 의/JKG 목소리/NNG 에/JKB 목울음/NNG 이/JKS 섞이/VV 어/EC 있/VX 었/EP 다/EF ./SF
+30,입맛/NNG 에/JKB 는/JX 우열__06/NNG 이/JKS 없/VA 다/EF ./SF
+31,"/SS 과학/NNG 에/JKB 는/JX 국경__01/NNG 이/JKS 없/VA 다/EF ./SF
+32,선우/NNP 에/JKB 대하__02/VV ᆫ/ETM 미안__01/NNG 하/XSA ᄆ/ETN 때문/NNB 이/VCP 었/EP 다/EF ./SF
+33,학술/NNG 연구__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 최고__02/NNG 의/JKG 학위/NNG 이/VCP 다/EF ./SF
+34,차라리/MAG 열무김치/NNG 에/JKB 보리밥/NNG 이/JKS 낫__02/VA 지/EC 싶/VX 다/EF ./SF
+35,유희선/NNP :/SP 안계희/NNP 씨/NNB 말__01/NNG 에/JKB 동감__01/NNG 이/JKS 가/VV 아요/EF ./SF
+36,말__01/NNG 에/JKB 야/JX 무슨/MM 세금__01/NNG 이/JKS 붙/VV 나/EF ?/SF
+37,그/NP 에/JKB 대하__02/VV ᆫ/ETM 믿음/NNG ./SF
+38,녀석/NNB 에/JKB 대하__02/VV ᆫ/ETM 바람__01/NNG 은/JX 오직__01/MAG 하나/NR ./SF
+39,여가__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 시각__04/NNG 들/XSN 1/SN ./SF
+40,문명__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 반항__01/NNG 이/VCP 기/ETN 도/JX 하/VX 다/EF ./SF
+41,과일__01/NNG 에/JKB 는/JX 영양가/NNG 가/JKS 별로/MAG 없/VA 다/EF ./SF
+42,그러나/MAJ 왠지/MAG 말소리/NNG 에/JKB 는/JX 힘__01/NNG 이/JKS 없/VA 었/EP 다/EF ./SF
+43,외지__03/NNG 의/JKG 지주__03/NNG 는/JX 농사__01/NNG 에/JKB 관심__01/NNG 이/JKS 없/VA 다/EF ./SF
+44,옷/NNG 에/JKB 이슬/NNG 이/JKS 묻__01/VV 어/EC 있/VX 었/EP 다/EF ./SF
+45,이/NP 에/JKB 대하__02/VV ᆫ/ETM 판례/NNG 로/JKB 는/JX 1991/SN ./SF 9/SN ./SF 24/SN
+46,그때/NNG 갑자기/MAG 골목__01/NNG 외등__02/NNG 에/JKB 불__01/NNG 이/JKS 들어오/VV 았/EP 다/EF ./SF
+47,감동__02/NNG 어떤/MM 사물__10/NNG 에/JKB 대하__02/VV ᆫ/ETM 느낌/NNG 의/JKG 반응/NNG ./SF
+48,상대방__02/NNG 에/JKB 대하__02/VV ᆫ/ETM 배려__02/NNG 이/VCP 다/EF ./SF
+49,"/SS 저/NP 는/JX 그런/MM 일__01/NNG 에/JKB 별/MM 관심__01/NNG 이/JKS 없/VA 어요/EF ./SF
+50,그런데/MAJ 진인__02/NNG 이야기/NNG 에/JKB 는/JX 결말/NNG 이/JKS 없/VA 다/EF ./SF
+51,모든/MM 이야기/NNG 에/JKB 는/JX 사람/NNG 이/JKS 나오/VV ᆫ다/EF ./SF
+52,침해/NNG 에/JKB 대하__02/VV ᆫ/ETM 금지__04/NNG 명령__01/NNG
+53,커피색/NNG 얼룩/NNG 이/JKS 벽지__01/NNG 에/JKB 남/VV 는다/EF ./SF
+54,그러나/MAJ 선거__04/NNG 에/JKB 대하__02/VV ᆫ/ETM 관심__01/NNG 은/JX 너무나/MAG 저조__02/NNG 하/XSA 다/EF ./SF
+55,이/NP 에/JKB 대하__02/VV ᆫ/ETM 훈련/NNG 이/JKS 반드시/MAG 필요/NNG 하/XSA 다/EF ./SF
+56,추석__01/NNG 아침/NNG 한복/NNG 차림/NNG 에/JKB 어떤/MM 화장__02/NNG 이/JKS 좋/VA 을까/EF ./SF
+57,식사__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 문제__06/NNG 도/JX 마찬가지/NNG 이/VCP 다/EF ./SF
+58,이런/MM 물음__01/NNG 에/JKB 칠팔/NR 명/NNB 이/JKS 독서__03/NNG 이/VCP 라고/EC 하/VV ᆫ단다/EF ./SF
+59,몸__01/NNG 에/JKB 열__07/NNG 이/JKS 나/VV 던가요/EF ?/SF "/SS
+60,나/NP 에/JKB 대하__02/VV ᆫ/ETM 신경__04/NNG …/SE …/SE ./SF
+61,자유__03/NNG 민주주의/NNG 에/JKB 대하__02/VV ᆫ/ETM 시각__04/NNG 들/XSN 1/SN ./SF 긍정/NNG 적/XSN
+62,맛__01/NNG 도/JX 모양__02/NNG 에/JKB 도/JX 차별/NNG 이/JKS 없/VA 었/EP 다/EF ./SF
+63,사회__07/NNG 진출__02/NNG 에/JKB 대하__02/VV ᆫ/ETM 정보__06/NNG 도/JX 필요/NNG 하/XSA 겠/EP 다/EF ./SF
+64,그러나/MAJ 독감__01/NNG 에/JKB 는/JX 특효약/NNG 이/JKS 없/VA 다/EF ./SF
+65,미래인/NNG 따위/NNB 에/JKB 는/JX 관심__01/NNG 이/JKS 없/VA 다고/EF ./SF
+66,계급__02/NNG 계층/NNG 에/JKB 대하__02/VV ᆫ/ETM 이론__01/NNG 1/SN ./SF 맑스/NNP 의/JKG
+67,조광조/NNP 일당/NNG 에/JKB 대하__02/VV ᆫ/ETM 심문__03/NNG 이/JKS 진행__02/NNG 되/XSV 었/EP 다/EF ./SF
+68,강의/NNG 에/JKB 대하__02/VV ᆫ/ETM 지식__02/NNG 이/JKS 풍부/XR 하/XSA ᆫ가/EC ,/SP 8/SN ./SF
+69,여러/MM 사람/NNG 이/JKS 새끼줄/NNG 에/JKB 돈__01/NNG 을/JKO 끼우__01/VV 었/EP 다/EF ./SF
+70,담__01/NNG 에/JKB 금__02/NNG 이/JKS 가/VV 았/EP 다/EF ./SF
+71,노래방/NNG 에/JKB ᆫ/JX 일본/NNP 정신__12/NNG 이/JKS 깃들/VV 어/EC 있/VX 다/EF ./SF
+72,연습__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 교사__09/NNG 의/JKG 태도__03/NNG 도/JX 문제__06/NNG 이/VCP 다/EF ./SF
+73,돈__01/NNG 에/JKB 세상__01/NNG 이/JKS 다/MAG 담기__01/VV 어/EC 있/VX 더라/EF ./SF
+74,이/MM 물음__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 답__03/NNG 이/JKS 소설__03/NNG 형식__01/NNG 이/VCP 다/EF ./SF
+75,생명/NNG 의/JKG 힘__01/NNG 에/JKB 는/JX 불/XPN 가능/XR 이/JKS 없/VA 다/EF ./SF
+76,그러나/MAJ 요즈음/NNG 의/JKG 대중가요/NNG 에/JKB 는/JX 그런/MM 것/NNB 이/JKS 없/VA 다/EF ./SF
+77,하지만/MAJ 역사__04/NNG 에/JKB 는/JX 가정법/NNG 이/JKS 없/VA 다지요/EF ?/SF
+78,그래서/MAJ 역사__04/NNG 에/JKB 는/JX 고민/NNG 이/JKS 없/VA 다/EF ./SF
+79,축사__04/NNG 에/JKB 는/JX 면장__02/NNG 이/JKS 첫/MM 번/NNB 으로/JKB 올라가/VV 았/EP 다/EF ./SF
+80,건강__03/NNG 에/JKB 안/MAG 좋/VA 으니까/EF ./SF
+81,텅잉/NNG 에/JKB 는/JX 다음__01/NNG 의/JKG 네__02/MM 가지/NNB 방법/NNG 이/JKS 있/VV 다/EF ./SF
+82,이제/MAG 모든/MM 일__01/NNG 에/JKB 자신__02/NNG 이/JKS 없/VA 는/ETM 거/NNB 이/VCP 지/EF ?/SF
+83,그때/NNG 도/JX 당신/NP 마음__01/NNG 에/JKB 그림자/NNG 있/VV 었/EP 나요/EF ./SF
+84,"/SS 그/MM 말__01/NNG 에/JKB 도/JX 일리__03/NNG 가/JKS 있/VV 어요/EF ./SF "/SS
+85,세호/NNP 의/JKG 아버지/NNG 는/JX 담배/NNG 에/JKB 불__01/NNG 을/JKO 붙이/VV 었/EP 습니다/EF ./SF
+86,그것/NP 도/JX 역시/MAG 콴트릴/NNP 특공대/NNG 에/JKB 대하__02/VV ᆫ/ETM 얘기/NNG 이/VCP 야/EF ./SF
+87,커튼/NNG 에/JKB 호화__02/NNG 사치세/NNG 를/JKO 매기/VV 어라/EF !/SF ”/SS
+88,그녀/NP 의/JKG 맨/XPN 살갗/NNG 에/JKB 소름/NNG 이/JKS 까슬까슬/MAG 돋__01/VV 는다/EF ./SF
+89,디자인/NNG ,/SP 미술/NNG ,/SP 유학__04/NNG 에/JKB 매우/MAG 좋/VA 은/ETM 운__06/NNG ./SF
+90,따라서/MAJ 술__01/NNG 은/JX 위장병__02/NNG 에/JKB 는/JX 크/VA ᆫ/ETM 적__13/NNG 이/VCP 다/EF ./SF
+91,그래서/MAJ 주인__01/NNG 의/JKG 손__01/NNG 에/JKB 쥐__01/VV 어/EC 주/VX 었/EP 다/EF ./SF
+92,발바닥/NNG 에/JKB 눅눅/XR 하/XSA ᆫ/ETM 습기__02/NNG 가/JKS 들러붙/VV 는다/EF ./SF
+93,모든/MM 고백/NNG 에/JKB 는/JX 고통/NNG 이/JKS 따르__01/VV ᆫ다/EF ./SF
+94,우리말/NNG 에/JKB 진퇴양난/NNG 과/JKB 같/VA 은/ETM 경우__03/NNG 이/VCP 다/EF ./SF
+95,우리/NP 어머니/NNG 는/JX 그림__01/NNG 에/JKB 재능/NNG 이/JKS 있/VV 었/EP 다/EF ./SF
+96,이/MM 말__01/NNG 은/JX 맹자/NNP 에/JKB 도/JX 나오/VV ᄇ니다/EF ./SF
+97,"/SS 플라톤/NNP 이/JKS 「/SS 향연/NNP 」/SS 에/JKB 쓰__01/VV 었/EP 지요/EF ./SF "/SS
+98,주로/MAG 원두커피/NNG 나/JC 아이스커피/NNG 에/JKB 이용__01/NNG 하/XSV 면/EC 좋/VA 다/EF ./SF
+99,가정__06/NNG 에/JKB 있/VV 어서/EC 도/JX 마찬가지/NNG 이/VCP 다/EF ./SF
+100,주사__13/NNG 이/VCP 라니/EC ,/SP 카메라/NNG 출동/NNG 에/JKB 나오/VV 는/ETM 거/NNB ?/SF
+101,삶/NNG 에/JKB 모범__02/NNG 답안/NNG 은/JX 없/VA 어/EF ./SF
+102,"/SS 흡연/NNG 에/JKB 대하__02/VV ᆫ/ETM 것/NNB 이/VCP ᆫ데/EC …/SE ./SF "/SS
+103,저작__03/NNG 권/XSN 에/JKB 관하__02/VV ᆫ/ETM 그린/NNG 페이퍼/NNG
+104,"/SS 식물__02/NNG 에/JKB 관하__02/VV ᆫ/ETM 근래/NNG 의/JKG 책__01/NNG 중__04/NNB 에서/JKB 압권/NNG ./SF
+105,그/NP 는/JX 그것/NP 에/JKB 희망/NNG 을/JKO 걸__02/VV 고/EC 있/VX 었/EP 다/EF ./SF
+106,왜/MAG 인물/NNG 이야기/NNG 에/JKB 관심__01/NNG 을/JKO 가지/VV 었/EP 는가/EF ./SF
+107,이/NP 에/JKB 대하__02/VV 아서/EC 갑__02/NNG 론/XSN 이/JKS 다시/MAG 제기__06/NNG 되/XSV ᆫ다/EF ./SF
+108,참으로/MAG 귀/NNG 에/JKB 젖__01/VV 은/ETM 종/NNG 소리__01/NNG 이/VCP 었/EP 다/EF ./SF
+109,"/SS 커피/NNG 에/JKB 뽕__01/NNG 을/JKO 타__03/VV 았/EP 군요/EF ./SF "/SS
+110,오소리/NNG 는/JX 꽃신__01/NNG 을/JKO 원숭이/NNG 발__01/NNG 에/JKB 끼우__01/VV 었/EP 습니다/EF ./SF
+111,상덕/NNP 은/JX 석유__01/NNG 램프__01/NNG 에/JKB 불__01/NNG 을/JKO 켜__01/VV 었/EP 다/EF ./SF
+112,첫째/NR 는/JX 어머니/NNG 손__01/NNG 에/JKB 무엇/NP 을/JKO 들려주/VV ᆫ다/EF ./SF
+113,천기백/NNP 선생__01/NNG 직위/NNG 해제__03/NNG 에/JKB 대하__02/VV ᆫ/ETM 우리/NP 의/JKG 입장__04/NNG
+114,자기/NP 체면__02/NNG 에/JKB 손상/NNG 도/JX 가/VV 고/EF ./SF
+115,환경__02/NNG 문제__06/NNG 에/JKB 관하__02/VV ᆫ/ETM 책__01/NNG 이/VCP 다/EF ./SF
+116,아버지/NNG 는/JX 가마솥/NNG 에/JKB 장작불/NNG 을/JKO 지피__02/VV 고/EC 있/VX 었/EP 다/EF ./SF
+117,다음__01/NNG 은/JX 관광__02/NNG 산업/NNG 에/JKB 관하__02/VV ᆫ/ETM 책__01/NNG 이/VCP 다/EF ./SF
+118,여자__02/NNG 는/JX 낭만/NNG 에/JKB 약하/VA 니까/EF ./SF
+119,{/SS 삼국사기/NNP }/SS 에/JKB 있/VV 는/ETM 기록__02/NNG 이/VCP 다/EF ./SF
+120,책__01/NNG 에/JKB 낙서__03/NNG 말__03/VV 라/EF ./SF
+121,이__05/MM 글/NNG 은/JX 그것/NP 에/JKB 대하__02/VV ᆫ/ETM 고백/NNG 이/VCP ᄇ니다/EF ./SF
+122,대중__02/NNG 들/XSN 을/JKO 위하__01/VV ᆫ/ETM 문화__01/NNG 에/JKB 등한/XR 하/XSA 았/EP 습니다/EF ./SF
+123,메모지/NNG 에/JKB 는/JX 다음__01/NNG 과/JKB 같이/MAG 씌__02/VV 어/EC 있/VX 었/EP 다/EF ./SF
+124,토끼/NNG 형제__01/NNG 는/JX 지금__03/MAG 그런/MM 책__01/NNG 에/JKB 빠지__02/VV 어/EC 있/VX 다/EF ./SF
+125,나/NP 의/JKG 제의__04/NNG 에/JKB 윤재홍/NNP 은/JX 대답/NNG 을/JKO 망설이/VV 었/EP 다/EF ./SF
+126,나/NP 는/JX 활자__01/NNG 에/JKB 반하__01/VV 아/EC 있/VX 었/EP 다/EF ./SF
+127,저/MM 차__06/NNG 에/JKB 타__02/VV 시/EP 죠/EF ./SF "/SS
+128,둘째/NR ,/SP 사물__10/NNG 의/JKG 운동__02/NNG 에/JKB 는/JX 이유__04/NNG 가/JKS 있/VV 다/EF ./SF
+129,굴절__01/NNG 이상__05/NNG 시력__01/NNG 에/JKB 관하/VV ᆫ/ETM 기능__03/NNG 적/XSN 이상__12/NNG ./SF
+130,사실/MAG 운동__02/NNG 에/JKB 관심__01/NNG 없/VA 던/ETM 것/NNB ᆫ/JX 아니/VCN 야/EF ./SF
+131,셋째/NR ,/SP 극빈/NNG 계층/NNG 에/JKB 대하__02/VV ᆫ/ETM 접촉/NNG 이/VCP 다/EF ./SF
+132,이/MM 말__01/NNG 은/JX 연애__05/NNG 에/JKB 관하__02/VV ᆫ/ETM 진리/NNG 이/VCP 다/EF ./SF
+133,그리고/MAJ 로렌츠/NNP 변환식/NNG 에/JKB 대하__02/VV 아서/EC 도/JX 불변__02/NNG 이/VCP 다/EF ./SF
+134,"/SS 본능/NNG 이/VCP 자/EC 남편__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 의무__01/NNG 아니/VCN ᄇ니까/EF ./SF
+135,해숙/NNP 에/JKB 관하__02/VV ᆫ/ETM 이전__03/NNG 의/JKG 정보__06/NNG 역시/MAG 기구/XR 하/XSA 다/EF ./SF
+136,국조오례의/NNP 조선/NNP 시대__02/NNG 의/JKG 오례/NNG 에/JKB 관하/VV ᆫ/ETM 책__01/NNG ./SF
+137,갑자기/MAG 상준이/NNP 는/JX 귀신__01/NNG 에/JKB 홀리/VV ᆫ/ETM 기분/NNG 이/VCP 다/EF ./SF
+138,스포츠/NNG 중계__04/NNG 는/JX 뉴스/NNG 에/JKB 도/JX 영향__04/NNG 을/JKO 미치__02/VV ᆫ다/EF ./SF
+139,권리/NNG 침해/NNG 에/JKB 대하__02/VV ᆫ/ETM 구제__01/NNG 수단__01/NNG
+140,성삼이/NNP 가/JKS 나무__01/NNG 에/JKB 올라가/VV ᆯ/ETM 차례__01/NNG 이/VCP 었/EP 다/EF ./SF
+141,나/NP 는/JX 수없이/MAG 그/MM 말__01/NNG 을/JKO 수첩__01/NNG 에/JKB 적__01/VV 었/EP 다/EF ./SF
+142,업무__02/NNG 집행/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+143,물론/MAG 그/MM 이론__01/NNG 들/XSN 에/JKB 정도__11/NNG 의/JKG 차이/NNG 는/JX 있/VV 지만/EF ./SF
+144,문제__06/NNG 는/JX 결혼/NNG 에/JKB 대하__02/VV ᆫ/ETM 그/MM 애__02/NNG 태도__03/NNG 이/VCP 다/EF ./SF
+145,영순이/NNP 는/JX 갑자기/MAG 다리__01/NNG 에/JKB 힘__01/NNG 이/JKS 쭉/MAG 빠지__01/VV 었/EP 다/EF ./SF
+146,그리고/MAJ 그/NP 들/XSN 자신__01/NNG 의/JKG 사랑__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 확인__02/NNG ./SF
+147,·/SP 자전거/NNG 에/JKB 눈__01/NNG 이/JKS 멀/VV ᆫ/ETM 노마/NNP
+148,정빈/NNP 에/JKB 관하__02/VV ᆫ/ETM 아버지/NNG 의/JKG 설명/NNG 이/VCP 다/EF ./SF
+149,[/SS 모두__01/NNG 들/XSN 돈__01/NNG 에/JKB 걸신__02/NNG 이/JKS 들리__01/VV 었/EP 어요/EF ./SF ]/SS
+150,돈__01/NNG 에/JKB 환장/NNG 을/JKO 하/VV 았/EP 다고/EF ?/SF
+151,삶/NNG 자체__02/NNG 에/JKB 열정__02/NNG 을/JKO 가지/VV ᆫ/ETM 사람/NNG 이/VCP 다/EF ./SF
+152,봄볕/NNG 에/JKB 취하__03/VV 았/EP 구나/EF ./SF "/SS
+153,말__01/NNG 에/JKB 는/JX 반드시/MAG 목적__03/NNG 이/JKS 있/VV 다/EF ./SF
+154,『/SS 주간한국/NNP 』/SS 에/JKB 기사__10/NNG 가/JKS 나/VV ᆫ/ETM 모양__02/NNG 이/VCP 다/EF ./SF
+155,라디오/NNG 나/JC 텔레비전/NNG 에/JKB 나오/VV 는/ETM 연예인/NNG 도/JX 마찬가지/NNG 이/VCP 다/EF ./SF
+156,책__01/NNG 에/JKB 무슨/MM 원한/NNG 이/VCP 라도/EC 있/VV 는가/EF ./SF
+157,수학__03/NNG 능력__02/NNG 시험__03/NNG ,/SP 논술/NNG 고사__09/NNG 에/JKB 대하__02/VV ᆫ/ETM 압박감/NNG ./SF
+158,(/SS 5/SN )/SS 컴퓨터/NNG 의/JKG 잠재력/NNG 에/JKB 대하__02/VV ᆫ/ETM 정보__06/NNG 부족__01/NNG
+159,언제나/MAG 속옷/NNG 에/JKB 향수__04/NNG 를/JKO 뿌리/VV 는/ETM 것/NNB 처럼/JKB ./SF
+160,우리/NP 만큼/JKB 고향__02/NNG 에/JKB 집착__02/NNG 하/XSV 는/ETM 민족/NNG 도/JX 드물/VA 다/EF ./SF
+161,범인__02/NNG 검거__02/NNG 에/JKB 관하__02/VV ᆫ/ETM 기사__10/NNG 이/VCP 었/EP 다/EF ./SF
+162,그/MM 물음__01/NNG 에/JKB 상호__04/NNG 군/NNB 은/JX 이렇/VA 게/EC 대답/NNG 하/XSV ᆫ다/EF ./SF
+163,그것/NP 은/JX 인간__01/NNG 성/XSN 에/JKB 대하__02/VV ᆫ/ETM 믿음/NNG 때문/NNB 이/VCP 리라/EF ./SF
+164,할머니/NNG 는/JX 종이__01/NNG 상자__10/NNG 를/JKO 손수레/NNG 에/JKB 싣/VV 었/EP 습니다/EF ./SF
+165,가령/MAG 그녀/NP 의/JKG 몸무게/NNG 에/JKB 대하__02/VV 아/EF ./SF
+166,이사__11/NNG ,/SP 감사__12/NNG 의/JKG 선출__02/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+167,하지만/MAJ 곧/MAG 학습/NNG 과제__04/NNG 에/JKB 마음__01/NNG 을/JKO 돌리__04/VV 었/EP 다/EF ./SF
+168,사랑__01/NNG 에/JKB 는/JX 이유__04/NNG 따위/NNB 없/VA 는/ETM 것/NNB 이/VCP 다/EF ./SF
+169,쟤/NP 가/JKS 워낙/MAG 햄릿/NNP 에/JKB 미치__01/VV ᆫ/ETM 애__02/NNG 이/VCP 라서요/EF ./SF
+170,이/NP 에/JKB 대하__02/VV 아/EC 그녀/NP 는/JX 강력히/MAG 항의__01/NNG 하/XSV 았/EP 다/EF ./SF
+171,K/SL 는/JX 문__05/NNG 에/JKB 노크/NNG 를/JKO 하/VV 았/EP 다/EF ./SF
+172,바로/MAG 그것/NP 에/JKB 대하__02/VV 아/EC 생각__01/NNG 하/XSV 자/EF ./SF
+173,문서/NNG 에/JKB 바탕색/NNG 을/JKO 넣/VV 는/ETM 것/NNB 은/JX 간단/XR 하/XSA 다/EF ./SF
+174,둘째/NR 는/JX 외침__02/NNG 에/JKB 대하__02/VV ᆫ/ETM 적극/NNG 대응__02/NNG 하/XSV ᆯ/ETM 것/NNB ./SF
+175,이/NP 에/JKB 대하__02/VV 아/EC 잉켈스/NNP (/SS A/SL ./SF
+176,그/NP 들/XSN 에/JKB 대하__02/VV 아/EC 저항/NNG 하/XSV 아야/EC 하/VX ᄇ니다/EF ./SF
+177,수입세/NNG 수입__02/NNG 상품__03/NNG 에/JKB 대하__02/VV 아/EC 부과__05/NNG 하/XSV 는/ETM 관세__03/NNG ./SF
+178,첫째/NR ,/SP 한__05/NNG 에/JKB 관하/VV ᆫ/ETM 것/NNB ./SF
+179,시__13/NNG 에/JKB 관하__02/VV ᆫ/ETM 온당/XR 하/XSA ᆫ/ETM 이해__06/NNG
+180,그/MM 후__08/NNG 로/JKB 모든/MM 물품/NNG 에/JKB 바코드/NNG 를/JKO 붙이/VV 었/EP 다/EF ./SF
+181,세상__01/NNG 에/JKB 대하__02/VV 아서/EC 도/JX 마찬가지/NNG 이/VCP 다/EF ./SF
+182,주요__01/NNG 대안__05/NNG 으로/JKB 는/JX 우선/MAG 정부__08/NNG 시책__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 장__14/NNG ./SF
+183,사업__04/NNG 계획__01/NNG 운영__03/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+184,그러나/MAJ 사회__07/NNG 에/JKB 대하__02/VV 아서/EC 는/JX 그/MM 반대__03/NNG 이/VCP 었/EP 다/EF ./SF
+185,최상__02/NNG 의/JKG 교육/NNG 노력__01/NNG 에/JKB 정열/NNG 을/JKO 쏟/VV 으시/EP 어요/EF ./SF
+186,익숙/XR 하/XSA ᆫ/ETM 것/NNB 에/JKB 대하__02/VV ᆫ/ETM 그리움/NNG 말__01/NNG 이/VCP 다/EF ./SF
+187,적어도/MAG 아내__01/NNG 에/JKB 대하__02/VV 아서/EC 만큼/JKB 은/JX ./SF
+188,B/SL 팀/NNG 의/JKG A/SL 팀/NNG 에/JKB 대하__02/VV ᆫ/ETM 반론/NNG
+189,△/SW 직업/NNG 에/JKB 대하__02/VV ᆫ/ETM 준비/NNG 과정__03/NNG
+190,"/SS 전깃줄/NNG 에/JKB 바람__01/NNG 이/JKS 스치__01/VV 는/ETM 소리__01/NNG 이/VCP 야/EF ./SF "/SS
+191,회칙__02/NNG 변경__04/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+192,국회/NNG 운영__03/NNG 위원장/NNG 직__06/NNG 은/JX 민주당/NNP 에/JKB 내주/VV 었/EP 다/EF ./SF
+193,이__05/MM 노래__01/NNG 에/JKB 록__03/NNG 의/JKG 요소__04/NNG 는/JX 거의/MAG 없/VA 다/EF ./SF
+194,"/SS 국기__07/NNG 에/JKB 대하__02/VV ᆫ/ETM 경례/NNG !/SF "/SS
+195,그때/NNG 부터/JX 연__11/NNG 에/JKB 손__01/NNG 을/JKO 대__01/VV ᆫ/ETM 것/NNB 이/VCP ᄇ니더/EF ./SF
+196,처음/NNG 으로/JKB 좌중/NNG 에/JKB 웃음/NNG 이/JKS 터지/VV 었/EP 다/EF ./SF
+197,첫째/NR ,/SP 노동__03/NNG 탄압/NNG 에/JKB 대하__02/VV ᆫ/ETM 침묵/NNG 이/VCP 다/EF ./SF
+198,양귀비/NNP 에/JKB 대하__02/VV 아서/EC 는/JX 그/NP 의/JKG 무덤/NNG 이/JKS 셋/NR 이/VCP ᆫ데/EC
+199,영우/NNP 는/JX 사랑__01/NNG 에/JKB 굶주리/VV ᆫ/ETM 아이__01/NNG 이/VCP 었/EP 다/EF ./SF
+200,웃음/NNG 소리__01/NNG 가/JKS 전화기/NNG 에/JKB 불빛/NNG 처럼/JKB 차오르/VV ᆫ다/EF ./SF
+201,나무__01/NNG 에/JKB 기대__01/VV ᆫ/ETM 두/MM 사람/NNG 다시/MAG 키스/NNG 하/XSV 고/EF ./SF
+202,창가__01/NNG 에/JKB 신랑__02/NNG 의/JKG 뒷모습/NNG 이/JKS 보이__01/VV 었/EP 다/EF ./SF
+203,"/SS 나/NP 에/JKB 대하__02/VV 아서/EF ?/SF
+204,오렌지/NNG 주스/NNG 에/JKB 고급__02/NNG 화/XSN 바람__01/NNG 이/JKS 불__01/VV 고/EC 있/VX 다/EF ./SF
+205,그/NP 는/JX 유리__10/NNG 벽__06/NNG 에/JKB 얼굴/NNG 을/JKO 바짝/MAG 붙이/VV 었/EP 다/EF ./SF
+206,Habermas/SL )/SS 등__05/NNB 에/JKB 영향__04/NNG 을/JKO 주/VV 었/EP 다/EF ./SF
+207,이/MM 책__01/NNG 에/JKB 는/JX 주판__02/NNG 의/JKG 설명/NNG 이/JKS 있/VV 다/EF ./SF
+208,시__13/NNG 에/JKB 관하__02/VV ᆫ/ETM 통념__01/NNG
+209,그/MM 인형__01/NNG 에/JKB 는/JX 생동감/NNG 이/JKS 있/VV 었/EP 다/EF ./SF
+210,평의원/NNG 보선__05/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+211,김현/NNP 은/JX 이/MM 의식__03/NNG 자체__02/NNG 에/JKB 온몸/NNG 을/JKO 매달/VV 았/EP 다/EF ./SF
+212,그리고/MAJ 그/MM 나머지/NNG 책임/NNG 은/JX 분명/MAG 책__01/NNG 에/JKB 있/VV 겠/EP 지/EF ./SF
+213,그/MM 많/VA 은/ETM 사람/NNG 을/JKO 발기인/NNG 에/JKB 서명__03/NNG 시키/XSV 다니/EF !/SF
+214,그러나/MAJ 철학/NNG 은/JX 이/MM 문제__06/NNG 에/JKB 손__01/NNG 을/JKO 대__01/VV ᆫ다/EF ./SF
+215,이것/NP 이/JKS 결혼식/NNG 에/JKB 들__01/VV 는/ETM 모든/MM 것/NNB 이/VCP 었/EP 다/EF ./SF
+216,그때/NNG 부터/JX 둘/NR 은/JX 이/MM 일__01/NNG 에/JKB 한사코/MAG 매달리/VV 었/EP 다/EF ./SF
+217,그런/MM 일__01/NNG 에/JKB 나/NP 는/JX 아무런/MM 관심__01/NNG 도/JX 없/VA 었/EP 다/EF ./SF
+218,철__06/NNG 에/JKB 니켈/NNG 이나/JC 크롬/NNG 을/JKO 섞/VV 은/ETM 합금/NNG 이/VCP 다/EF ./SF
+219,-/SS 정부__08/NNG 와/JC 채권단/NNG 에/JKB 바라/VV 는/ETM 것/NNB 은/JX ./SF
+220,술__01/NNG 에/JKB 취하__03/VV 아/EC 있/VX 었/EP 다/EF ./SF
+221,이/NP 에/JKB 대하__02/VV 아/EC 파우스트/NNP 는/JX 말__01/NNG 하/XSV ᆫ다/EF ./SF
+222,편지__02/NNG 에/JKB 는/JX 반드시/MAG 상대__04/NNG 가/JKS 있/VV 다/EF ./SF
+223,인류__01/NNG 는/JX 전쟁/NNG 에/JKB 종지부/NNG 를/JKO 찍__02/VV 어야/EC 하/VX ᆫ다/EF ./SF
+224,문학__01/NNG 에/JKB 있/VV 어서/EC 자유__03/NNG 는/JX 보장__01/NNG 되/XSV 어야/EC 하/VX ᄇ니다/EF ./SF
+225,그/MM 터널/NNG 에/JKB ᆫ/JX 반드시/MAG 끝/NNG 이/JKS 있/VV 다/EF ./SF
+226,잿밥/NNG 에/JKB 만/JX 마음__01/NNG 이/JKS 쏠리/VV 는/ETM 중__01/NNG 들/XSN 이/VCP 다/EF ./SF
+227,이어서/MAG 학교/NNG 에/JKB 대하__02/VV 아/EC 이야기/NNG 하/XSV ᆫ다/EF ./SF
+228,모두/NNG 모두__01/NNG 가/JKS 줄__01/NNG 에/JKB 미치__01/VV ᆫ/ETM 듯/NNB 하/XSA 았/EP 다/EF ./SF
+229,아래__01/NNG 속눈썹/NNG 에/JKB 도/JX 살짝/MAG 마스카라/NNG 를/JKO 바르__01/VV 아/EC 주/VX ᆫ다/EF ./SF
+230,K/SL 는/JX 다시/MAG A/SL 에/JKB 대하__02/VV 아/EC 생각__01/NNG 하/XSV 았/EP 다/EF ./SF
+231,편지__02/NNG 에/JKB 모든/MM 것/NNB 을/JKO 쓰__01/VV 겠/EP 어/EF ./SF
+232,아시안/NNG 게임/NNG 에/JKB 대하__02/VV ᆫ/ETM 각오__01/NNG 는/JX ./SF
+233,자가__01/NNG 임신__02/NNG 진단__02/NNG 시약__03/NNG 에/JKB 문제__06/NNG 가/JKS 많/VA 다/EF ./SF
+234,세상__01/NNG 에/JKB 외치__01/VV 고/EC 싶/VX 었/EP 다/EF ./SF
+235,가령/MAG ,/SP A/SL 에/JKB 대하__02/VV 아/EF ./SF
+236,이/NP 에/JKB 대하__02/VV 아/EC 미국/NNP 의/JKG 영화__01/NNG 학자__01/NNG 이/VCP ᆫ/ETM L/SL ./SF
+237,과연__01/MAG 한국인/NNG 의/JKG 생리__03/NNG 는/JX '/SS 나눗셈/NNG '/SS 에/JKB 밝/VA 다/EF ./SF
+238,자신__01/NNG 과/JC 사회__07/NNG 와/JC 교육/NNG 에/JKB 대하__02/VV ᆫ/ETM ./SF
+239,그/NP 들/XSN 의/JKG 혼숙/NNG 에/JKB 대하__02/VV 아/EF ./SF
+240,"/SS 나/NP 에/JKB 대하__02/VV 아서/EC 도/JX ?/SF "/SS
+241,K/SL 는/JX A/SL 에/JKB 대하__02/VV 아/EC 생각__01/NNG 하/XSV 았/EP 다/EF ./SF
+242,"/SS 너/NP 돈__01/NNG 에/JKB 미치__01/VV 었/EP 구나/EF ./SF
+243,그/MM 하나/NR 가/JKS 임진왜란/NNG 에/JKB 대하__02/VV ᆫ/ETM 재/XPN 평가__03/NNG 이/VCP 다/EF ./SF
+244,고향__02/NNG 과/JC 아기__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 그리움/NNG ./SF
+245,아내__01/NNG 의/JKG 꿍꿍이속/NNG 여성__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 미__14/NNG 적/XSN 쾌감/NNG ./SF
+246,이/MM 전설__04/NNG 에/JKB 는/JX 여러/MM 가지/NNB 판본/NNG 이/JKS 있/VV 다/EF ./SF
+247,문학__01/NNG 작품__01/NNG 에/JKB 무슨/MM 정답/NNG 이/JKS 있/VV 는가/EF ./SF
+248,곧/MAG 벼/NNG 에/JKB 노랑__01/NNG 방울__01/NNG 이/JKS 들__01/VV ᆫ/ETM 것/NNB 이/VCP 다/EF ./SF
+249,나/NP 는/JX 대마초/NNG 에/JKB 불__01/NNG 을/JKO 붙이/VV 었/EP 다/EF ./SF
+250,우려/NNG 에/JKB 대하__02/VV 아/EC 얘기/NNG 하/XSV 아/EC 보/VX 지요/EF ./SF
+251,➀/SW 맥박/NNG 의/JKG 변화/NNG :/SP 맥박/NNG 에/JKB 변화/NNG 가/JKS 있/VV 다/EF ./SF
+252,그림__01/NNG 이/VCP 나/EC 삽화__02/NNG 에/JKB 대하__02/VV 아/EC
+253,독니/NNG 에/JKB 는/JX 다음__01/NNG 세/MM 종류/NNG 가/JKS 있/VV 다/EF ./SF
+254,제목__02/NNG 에/JKB 대하__02/VV 아/EC
+255,사람/NNG 들/XSN 은/JX 마지막/NNG 거짓말/NNG 을/JKO 일기__12/NNG 에/JKB 쓰__01/VV 지/EF ./SF "/SS
+256,현관문/NNG 에/JKB 열쇠/NNG 를/JKO 꽂/VV 았/EP 을/ETM 때__01/NNG 이/VCP 었/EP 다/EF ./SF
+257,그러나/MAJ 그/NP 들/XSN 에게/JKB 는/JX 슈만/NNP 도/JX 잡음__02/NNG 에/JKB 묻히__02/VV ᆫ다/EF ./SF
+258,그것/NP 은/JX 곧/MAG 자신__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 혐오__02/NNG 이/VCP 겠/EP 지/EF ./SF
+259,거울__01/NNG 에/JKB 비치__01/VV ᆫ/ETM 나/NP 의/JKG 모습__01/NNG 은/JX 완전/NNG 아줌마/NNG !/SF
+260,민생/NNG 치안/NNG 문제__06/NNG 에/JKB 이르__01/VV 어서/EC 는/JX 또/MAG 어떠/XR 하/XSA ᆫ가/EF ?/SF
+261,결국/NNG 로마/NNP 에/JKB 격렬/XR 하/XSA 게/EC 저항/NNG 하/XSV 게/EC 되__01/VV 죠/EF ./SF
+262,아/IC ,/SP 편지__02/NNG 에/JKB 설명/NNG 이/JKS 있/VV 겠/EP 지/EF ./SF
+263,▽/SW 일본/NNP 소니/NNP 가/JKS 한국/NNP 삼성/NNP 에/JKB 따라잡히/VV ᆫ/ETM 이유__04/NNG 는/JX
+264,또/MAJ 포/NNG 에/JKB 는/JX 홍색/NNG 점__10/NNG 문양__01/NNG 이/JKS 있/VV 다/EF ./SF
+265,이/NP 에/JKB 대하__02/VV 아/EC 鄭/SH 부장__07/NNG 은/JX 단호/XR 하/XSA 다/EF ./SF
+266,돌개/NNP 에/JKB 원한/NNG 이/JKS 많/VA 은/ETM 사람/NNG 이/VCP ᄇ니다/EF ./SF
+267,종이__01/NNG 에/JKB 는/JX 두/MM 개/NNB 의/JKG 면__05/NNG 이/JKS 있/VV 다/EF ./SF
+268,오히려/MAJ 더/MAG ,/SP 거꾸로/MAG ,/SP 현실__02/NNG 에/JKB 가깝/VA 다/EF ./SF
+269,몸__01/NNG 에/JKB 좋/VA 다는/ETM 유황/NNG 오리__03/NNG ./SF
+270,오늘/NNG 빨래/NNG 에/JKB 풀__01/NNG 하/VV 지/EC 않/VX 니/EF ?/SF "/SS
+271,물론/MAG 가로__01/NNG 의/JKG 조직/NNG 에/JKB 대하__02/VV ᆫ/ETM 것/NNB 이/VCP 다/EF ./SF
+272,무기물/NNG 에/JKB 생명/NNG 이/JKS 있/VV 느냐/EF ?/SF
+273,"/SS 말__01/NNG 에/JKB 는/JX 결코/MAG 지우개/NNG 가/JKS 없/VA 다/EF ./SF "/SS
+274,예산__02/NNG ·/SP 결산/NNG 서/JKB 작성__01/NNG 및/MAG 그/MM 집행/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+275,이용__01/NNG 에/JKB 는/JX 두/MM 가지/NNB 뜻/NNG 이/JKS 담기__01/VV 어/EC 있/VX 다/EF ./SF
+276,세계__02/NNG 화/XSN 에/JKB 대하__02/VV ᆫ/ETM 시각__04/NNG 들/XSN 1/SN ./SF
+277,설비__02/NNG 투자__02/NNG 에/JKB 돈__01/NNG 을/JKO 쓰__03/VV 는/ETM 것/NNB 도/JX 아니/VCN 다/EF ./SF
+278,엄격히/MAG 말__01/NNG 하/XSV 아서/EC 이/MM 시__13/NNG 에/JKB 의미/NNG 는/JX 없/VA 다/EF ./SF
+279,그/MM 맛__01/NNG 에/JKB 대하__02/VV 아/EC 말__01/NNG 하/XSV 아/EC 보/VX 자/EF ./SF
+280,세네갈/NNP 의/JKG 토니/NNP 실바/NNP 도/JX 그/NP 에/JKB 못지않/VA 다/EF ./SF
+281,선택/NNG 이란/JX 가치__06/NNG 에/JKB 대하__02/VV ᆫ/ETM 결단__01/NNG 이/VCP 다/EF ./SF
+282,둘째/NR 로/JKB 옷/NNG 에/JKB 는/JX 반드시/MAG 남녀/NNG 구별__02/NNG 이/JKS 있/VV 다/EF ./SF
+283,-/SS 전군__01/NNG 에/JKB 비상__01/NNG 경계령/NNG 이/JKS 내려지/VV 었/EP 는데/EF ./SF
+284,톰/NNP 소여/NNP 는/JX 담장__01/NNG 에/JKB 페인트칠/NNG 을/JKO 하/VV 고/EC 있/VX 다/EF ./SF
+285,아이__01/NNG 는/JX 바늘구멍/NNG 에/JKB 한쪽/NNG 눈__01/NNG 을/JKO 붙이/VV 었/EP 다/EF ./SF
+286,김병현/NNP 의/JKG 야구__02/NNG 에/JKB 대하__02/VV ᆫ/ETM 열정__02/NNG 은/JX 특별/NNG 하/XSA 다/EF ./SF
+287,손__01/NNG 을/JKO 입/NNG 에/JKB 대__01/VV 었/EP 다/EF ./SF
+288,이/MM 때__01/NNG 는/JX 경추__02/NNG 3/SN 번/NNB 에/JKB 이상__12/NNG 이/JKS 생기/VV ᆫ다/EF ./SF
+289,그러나/MAJ 그것/NP 은/JX 영화__01/NNG 에/JKB 있/VV 어서/EC 도/JX 마찬가지/NNG 이/VCP 다/EF ./SF
+290,바로/MAG 명희/NNG 누나/NNG 에/JKB 대하__02/VV ᆫ/ETM 것/NNB 이/VCP 었/EP 다/EF ./SF
+291,하긴/MAG 공순이/NNG 들/XSN 은/JX 대학__01/NNG 생/XSN 에/JKB 약하/VA 았/EP 다/EF ./SF
+292,이제/MAG 막__01/MAG 차__06/NNG 에/JKB 태우__02/VV 려는/ETM 참/NNB 이/VCP ᆫ데요/EF ?/SF
+293,행동/NNG 보다/JKB 도/JX 태도__03/NNG 및/MAG 대화__06/NNG 에/JKB 역점__01/NNG 을/JKO 두/VV ᆫ다/EF ./SF
+294,이/NP 에/JKB 대하__02/VV 아/EC 모든/MM 말__01/NNG 은/JX 그대로/MAG 소리__01/NNG 이/VCP 다/EF ./SF
+295,약속/NNG 에/JKB 의하/VV ᆫ/ETM 자백__01/NNG
+296,그것/NP 에/JKB 관하__02/VV ᆫ/ETM 증거/NNG 는/JX 너무나/MAG 빈약/NNG 하/XSA 다/EF ./SF
+297,실상/MAG 문화__01/NNG 예술/NNG 에/JKB 과열__01/NNG 이란/JX 없/VA 다/EF ./SF
+298,먼저/MAG 분단__03/NNG 에/JKB 대하__02/VV 아/EC 고찰__02/NNG 하/XSV 아/EC 보/VX ᄇ시다/EF ./SF
+299,그녀/NP 아버지/NNG 의/JKG 딸자식/NNG 에/JKB 대하__02/VV ᆫ/ETM 교육관/NNG 이/VCP 었/EP 다/EF ./SF
+300,그러면/MAJ 상속세/NNG 의/JKG 우선__07/NNG 권/XSN 에/JKB 관하__02/VV 아/EC 설명/NNG 하/XSV ᆫ다/EF ./SF
+301,"/SS 너/NP 에/JKB 대하__02/VV 아서/EF ./SF "/SS
+302,온/MM 식구__01/NNG 들/XSN 은/JX 족구/NNG 에/JKB 빠지__02/VV 어/EC 들/VX 었/EP 다/EF ./SF
+303,미려/NNP 는/JX 시__13/NNG 에/JKB 관심__01/NNG 이/JKS 있/VV 나/EF ?/SF
+304,바로/MAG 사랑__01/NNG 의/JKG 불/XPN 확실/XR 성/XSN 에/JKB 대하__02/VV ᆫ/ETM 노래__01/NNG 를/JKO ./SF
+305,특히/MAG 칭찬/NNG 의/JKG 말__01/NNG 에/JKB 는/JX 만족__01/NNG 을/JKO 모르/VV ᆫ다/EF ./SF
+306,한국/NNP 시장__04/NNG 에/JKB 관심__01/NNG 을/JKO 가지/VV 는/ETM 배경__01/NNG 은/JX ?/SF
+307,관리__04/NNG 에/JKB 허점/NNG 이/JKS 생기/VV ᆫ/ETM 것/NNB 이/VCP 다/EF ./SF
+308,이__05/MM 일__01/NNG 에/JKB 요한/NNP 이/JKS 뛰어들/VV ᆫ/ETM 것/NNB 이/VCP 다/EF ./SF
+309,여성__01/NNG 운동__02/NNG 에/JKB 대하__02/VV 아서/EC 잠깐/MAG 이야기/NNG 하/XSV 아/EC 보/VX ᄇ시다/EF ./SF
+310,이런/MM 것/NNB 들/XSN 에/JKB 나/NP 는/JX 부들부들__01/MAG 떨/VV 었/EP 다/EF ./SF
+311,문제__06/NNG 는/JX 여기/NP 에/JKB 있/VV 다/EF ./SF
+312,그런데/MAJ 수입__01/NNG 에/JKB 도/JX 종류__02/NNG 가/JKS 있/VV 었/EP 다/EF ./SF
+313,-/SS 민주당/NNP 개혁/NNG 문제__06/NNG 에/JKB 대하__02/VV ᆫ/ETM 생각__01/NNG 은/JX ?/SF
+314,사람/NNG 에/JKB 대하__02/VV ᆫ/ETM 미움/NNG ./SF "/SS
+315,이/NP 에/JKB 대하__02/VV ᆫ/ETM 의견__01/NNG 은/JX ./SF
+316,그리고/MAJ 이/NP 에/JKB 대하__02/VV ᆫ/ETM 제재/NNG 는/JX 항상/MAG 제자리걸음/NNG 이/VCP 다/EF ./SF
+317,잡음__02/NNG 에/JKB 대하__02/VV ᆫ/ETM 잡음__02/NNG 이/JKS ./SF
+318,인도/NNP 마우리아/NNP 왕조__02/NNG 의/JKG 아소카왕/NNP 은/JX 정복__02/NNG 전쟁/NNG 에/JKB 나서/VV ᄇ니다/EF ./SF
+319,그저/MAG 운명__01/NNG 에/JKB 맡기/VV ᆯ/ETM 수__02/NNB 밖에/JX ./SF
+320,"/SS 당분간/MAG 숨__01/VV 어/EC 있/VX 기/ETN 에/JKB 는/JX 안성맞춤/NNG 이/VCP 군요/EF ./SF
+321,우선/MAG 고/XPN 수입__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 기대__03/NNG 때문/NNB 이/VCP 다/EF ./SF
+322,생명/NNG 의/JKG 기원__05/NNG 에/JKB 있/VV 어서/EC 도/JX 그러/XR 하/XSA 다/EF ./SF
+323,그러나/MAJ 날짜__01/NNG 에/JKB 는/JX 좀/MAG 불만/NNG 이/JKS 있/VV 었/EP 습니다/EF ./SF
+324,무엇/NP 때문/NNB 에/JKB 글/NNG 을/JKO 쓰__01/VV 는가/EF ?/SF
+325,아니/MAG 때__01/NNG ᆫ/JX 굴뚝/NNG 에/JKB 연기__09/NNG 나/VV 랴/EF ./SF
+326,솔직히/MAG 힘__01/NNG 에/JKB 버겁/VA 어/EF ./SF
+327,"/SS 선생__01/NNG 이/JKS 저/NP 의/JKG 눈__01/NNG 에/JKB 익/VA 습니다/EF ./SF
+328,이/MM 팜플렛/NNG 은/JX 사회__07/NNG 윤리/NNG 에/JKB 대하__02/VV ᆫ/ETM 도전__04/NNG ./SF "/SS 이라고/JKQ
+329,석기/NNP 도/JX 눈__01/NNG 에/JKB 익/VA 은/ETM 계장__03/NNG 이/VCP 었/EP 다/EF ./SF
+330,식지__02/NNG 에/JKB 붙/VV 은/ETM 밥풀/NNG
+331,새벽__01/NNG 조깅/NNG 에/JKB 걸리__01/VV 는/ETM 시간__04/NNG 은/JX 대략/MAG 50/SN 여/XSN 분__08/NNB ./SF
+332,그/NP 는/JX 모든/MM 스포츠/NNG 에/JKB 재능/NNG 을/JKO 가지/VV ᆫ/ETM 만능/NNG 스포츠맨/NNG ./SF
+333,모국어/NNG 에/JKB 는/JX 겨레__01/NNG 의/JKG 피__02/NNG 가/JKS 섞이/VV 어/EC 있/VX 다/EF ./SF
+334,게다가/MAG 언설/NNG 에/JKB 는/JX 망념/NNG (/SS 妄念/SH )/SS 이/JKS 따르/VV ᆫ다/EF ./SF
+335,세입자/NNG 는/JX 없/VA 고/EC 농업/NNG 에/JKB 종사__09/NNG 하/XSV ᆫ다/EF ./SF
+336,이런/MM 쪽__05/NNB 에/JKB 도__10/NNG 가/JKS 틀/VV ᆫ/ETM 사람/NNG 이/VCP 랄까/EF ./SF
+337,사람/NNG 대신__03/NNG 에/JKB 이__05/MM 브로치__02/NNG 가/JKS 오/VV 았/EP 죠/EF ./SF
+338,정우/NNP 는/JX 몸__01/NNG 에/JKB 힘__01/NNG 이/JKS 쭉/MAG 빠지__01/VV ᆫ다/EF ./SF
+339,나/NP 는/JX 완쯔/NNG 패__02/NNG 에/JKB 걸__02/VV 겠/EP 다/EF ./SF
+340,나르시스/NNG 는/JX 아름답/VA 지만/EC 허상/NNG 에/JKB 불과/MAG 하/XSA 다/EF ./SF
+341,생활/NNG 양식__04/NNG 에/JKB 도/JX 차이/NNG 가/JKS 나/VV ᆫ다/EF ./SF
+342,마치/MAG 복권__01/NNG 에/JKB 당첨/NNG 되/XSV 기/ETN 를/JKO 바라/VV 는/ETM 것/NNB 처럼/JKB ./SF
+343,매사__01/NNG 에/JKB 호기심/NNG 이/JKS 많/VA 은/ETM 아가씨/NNG 이/VCP 군/EF ./SF
+344,명령__01/NNG 하/XSV 는/ETM 말투/NNG 가/JKS 귀__01/NNG 에/JKB 거슬리__01/VV 었/EP 다/EF ./SF
+345,얼굴/NNG 에/JKB 무수히/MAG 침방울/NNG 이/JKS 튀/VV 었/EP 다/EF ./SF
+346,아버지/NNG 는/JX 눈__01/NNG 에/JKB 불__01/NNG 이/JKS 켜__01/VV 어/EC 지/VX 었/EP 다/EF ./SF
+347,첫째/NR 어머니/NNG 는/JX 등__08/NNG 에/JKB 불__01/NNG 을/JKO 켜__01/VV 어/EC 놓/VX 으며/EC ,/SP
+348,예산__02/NNG 및/MAG 결산/NNG 승인__02/NNG 에/JKB 관하__02/VV ᆫ/ETM 사항__02/NNG
+349,이런/MM 일__01/NNG 에/JKB 많이/MAG 들__01/VV 죠/EC "/SS
+350,돈__01/NNG 에/JKB 아무/MM 재미__01/NNG 가/JKS 없/VA 어서/EC 이/VCP 었/EP 단다/EF ./SF
+351,나/NP ᆫ/JX 살인/NNG 사건__01/NNG 에/JKB 만/JX 관심__01/NNG 이/JKS 있/VV 소/EF ./SF
+352,그/NP 의/JKG 목소리/NNG 에/JKB ᆫ/JX 짜증/NNG 이/JKS 묻__01/VV 어/EC 있/VX 다/EF ./SF
+353,나/NP 는/JX 수리__17/NNG 에/JKB 는/JX 자신__02/NNG 이/JKS 있/VV 었/EP 다/EF ./SF
+354,방송__01/NNG 하/XSV 는/ETM 아가씨/NNG 를/JKO 나무라/VV 는/ETM 나/NP 의/JKG 말__01/NNG 에/JKB 는/JX
+355,금방/MAG 머리칼/NNG 에/JKB 염색__01/NNG 이/VCP 라도/EC 한/MM 것/NNB 같/VA 았/EP 다/EF ./SF
+356,경락이/NNP 는/JX 마무리/NNG 작업__01/NNG 에/JKB 박차__01/NNG 를/JKO 가하/VV ᆫ다/EF ./SF
+357,그래서/MAJ 더욱/MAG 선물__03/NNG 에/JKB 신경__04/NNG 이/JKS 쓰이__03/VV 었/EP 다/EF ./SF
+358,국민학교/NNG 학생/NNG 들/XSN 의/JKG 리듬/NNG 합주__01/NNG 에/JKB 많이/MAG 쓰이__03/VV ᆫ다/EF ./SF
+359,그러나/MAJ A/SL 형/XSN 독감__01/NNG 에/JKB 만/JX 효력/NNG 이/JKS 있/VV 다/EF ./SF
+360,아이__01/NNG 의/JKG 음성__02/NNG 에/JKB 눈물__01/NNG 이/JKS 묻__01/VV 어/EC 있/VX 었/EP 다/EF ./SF
+361,학교/NNG 운영__03/NNG 에/JKB 잘못/MAG 되/XSV ᆫ/ETM 점__10/NNG 을/JKO 들__04/VV 자면/EF ./SF
+362,"/SS 저/NP 는/JX 아직/MAG 서울/NNP 지리__03/NNG 에/JKB 너무/MAG 어둡/VA 어요/EF ./SF "/SS
+363,자녀__01/NNG 일__01/NNG 에/JKB 도/JX 신경__04/NNG 을/JKO 쓰__03/VV 시/EP 어요/EF ./SF
+364,개인__02/NNG 은/JX 자기/NP 행위/NNG 에/JKB 책임/NNG 이/JKS 있/VV 지/EC 않/VX 다/EF ./SF
+365,그러므로/MAJ 이/NP 들/XSN 은/JX 성행위/NNG 에/JKB 의미/NNG 를/JKO 두/VV ᆫ다/EF ./SF
+366,하고/JKQ 대답/NNG 하/XSV 며/EC 나/NP 의/JKG 목__01/NNG 에/JKB 매달리/VV 었/EP 다/EF ./SF
+367,-/SS 나비스코/NNP 챔피언십/NNG 에/JKB 임하__02/VV 는/ETM 각오__01/NNG 는/JX ?/SF
+368,이/NP 에/JKB 현덕/NNP 은/JX 이렇/VA 게/EC 말__01/NNG 하/XSV 았/EP 다/EF ./SF
+369,그리고/MAJ 언제나/MAG 저/NP 들/XSN 도/JX 계급의식/NNG 에/JKB 눈__01/NNG 이/JKS 뜨__05/VV ᆯ까/EF ?/SF
+370,"/SS 고뿔/NNG 에/JKB 걸리__01/VV 었/EP 수/EF ./SF "/SS
+371,그래서/MAJ 나/NP 는/JX 사업__04/NNG 에/JKB 는/JX 자신__02/NNG 이/JKS 있/VV 었/EP 다/EF ./SF
+372,고장__11/NNG 나/VV ᆫ/ETM 자전거/NNG ,/SP 자동차/NNG 바퀴__01/NNG 휠/NNG 에/JKB 의자__03/NNG 까지/JX ./SF
+373,또한/MAG 우리/NP 는/JX 우리/NP 성격__02/NNG 에/JKB 도/JX 책임/NNG 이/JKS 있/VV 다/EF ./SF
+374,[/SS 댁/NNG 에/JKB 나/JX 양심껏/MAG 살__01/VV 구려/EF ./SF
+375,글씨/NNG 와/JC 그림__01/NNG 에/JKB 도/JX 뛰어나/VA 았/EP 다/EF ./SF
+376,장래/NNG 는/JX 지식__02/NNG 에/JKB 있/VV 다/EF ./SF
+377,붉은곰팡이병/NNG 밀__03/NNG 이나/JC 보리__01/NNG 에/JKB 생기/VV 는/ETM 병__04/NNG 의/JKG 한/MM 가지/NNB ./SF
+378,중국/NNP 사람/NNG 들/XSN 은/JX 모두/MAG 한문__03/NNG 에/JKB 능하/VA 다/EF ./SF
+379,{/SS 여씨춘추/NNP }/SS 에/JKB 는/JX 이런/MM 이야기/NNG 가/JKS 나오/VV ᄇ니다/EF ./SF
+380,넷째/NR 로/JKB ,/SP 건강__03/NNG 에/JKB 신경__04/NNG 쓰__03/VV 어야/EC 하/VX ᆫ다/EF ./SF
+381,바로/MAG 그런/MM 생성/NNG 에/JKB 주의__07/NNG 를/JKO 기울이/VV 자/EF ./SF
+382,표현법/NNG 에/JKB 세밀/XR 하/XSA ᆫ/ETM 주의__07/NNG 를/JKO 기울이/VV ᆫ다/EF ./SF
+383,과히/MAG 이사__06/NNG 에/JKB 조고__11/NNG 를/JKO 겸하/VV ᆫ/ETM 놈/NNB 이/VCP 지요/EF ./SF
+384,죽장__03/NNG 에/JKB 삿갓__01/NNG 쓰__02/VV 고/EC 전국__03/NNG 을/JKO 방랑/NNG 하/XSV 는/ETM 김삿갓/NNP !/SF
+385,제목__02/NNG :/SP 시__13/NNG 에/JKB 는/JX 어떤/MM 쓸모/NNG 가/JKS 있/VV 는가/EF ?/SF
+386,기관__11/NNG 들/XSN 도/JX 주식__03/NNG 매수__02/NNG 에/JKB 머뭇거리/VV 고/EC 있/VX 다/EF ./SF
+387,그/NP 는/JX 신호등/NNG 에/JKB 발길/NNG 을/JKO 맡기/VV 었/EP 다/EF ./SF
+388,엉덩이/NNG 에/JKB 색칠/NNG 을/JKO 하/VV 았/EP 다고/EF ?/SF
+389,"/SS 어허/IC ,/SP 걸궁/NNG 창부__02/NNG 무동춤/NNG 에/JKB 상사소리/NNG 더/MAG 좋/VA 구나/EF !/SF
+390,하물며/MAJ 컴퓨터/NNG 에/JKB 있/VV 어서/EC 이/VCP 랴/EF ./SF
+391,시청__03/NNG 률/XSN 에/JKB 는/JX 이미/MAG 자신__01/NNG 이/JKS 있/VV 다/EF ./SF
+392,사실/MAG 나/NP 는/JX 대답/NNG 에/JKB 둔하/VA ᆫ/ETM 편__04/NNB 이/VCP 다/EF ./SF
+393,정신__12/NNG 은/JX 정신__12/NNG 에/JKB 영향__04/NNG 을/JKO 주/VV ᆫ다/EF ./SF
+394,잘/MAG 읽/VV 고/EC 물음__01/NNG 에/JKB 답__03/NNG 하/XSV 라/EF ./SF
+395,자연__01/NNG 을/JKO 생각__01/NNG 하/XSV 는/ETM 자세__02/NNG 가/JKS 몸__01/NNG 에/JKB 배__01/VV 도록/EF ./SF
+396,"/SS 받들/VV ᆯ/ETM 봉__88/NNG 자__14/NNG 에/JKB 석/MM 삼/NR 자__14/NNG 요/JX ./SF "/SS
+397,동기__07/NNG 는/JX 자극__01/NNG 의/JKG 해석__04/NNG 에/JKB 도/JX 영향__04/NNG 을/JKO 하/VV ᆫ다/EF ./SF
+398,잔뜩/MAG 술__01/NNG 에/JKB 취하__03/VV 아/EC 있/VX 었/EP 다/EF ./SF
+399,농사/NNG 에/JKB 힘쓰/VV 는/ETM 것/NNB ,/SP 2/SN ./SF
+400,"/SS 시위__04/NNG 나/JC 캠페인/NNG 에/JKB 쓰이__03/VV 는/ETM 음악__01/NNG 이/JKC 아니/VCN ᄇ니다/EF ./SF
+401,꼬리__01/NNG 에/JKB 꼬리__01/NNG 를/JKO 문__05/NNG 고리__01/NNG 같/VA 았/EP 다/EF ./SF
+402,사랑__01/NNG 이/VCP 라는/ETM 말__01/NNG 에/JKB 선입견/NNG 을/JKO 갖/VV 지/EC 말/VX 자/EF ./SF
+403,어쨌든/MAG 일본/NNP 말__01/NNG 에/JKB 관하__02/VV ᆫ/ETM 한__06/NNG 과민/NNG 반응/NNG 이/VCP 다/EF ./SF
+404,-/SS 플레이오프/NNG 에/JKB 대하__02/VV ᆫ/ETM 대비__10/NNG 는/JX ?/SF
+405,첫째/NR ,/SP 서정시/NNG 의/JKG 본질__02/NNG 에/JKB 관하__02/VV ᆫ/ETM 것/NNB ./SF
+406,시__13/NNG 에/JKB 는/JX 두/MM 가지/NNB 힘__01/NNG 이/JKS 있/VV 다/EF ./SF
+407,관객/NNG 은/JX 무대__06/NNG 의/JKG 순정__03/NNG 에/JKB 굶주리/VV 어/EC 있/VX 다/EF ./SF
+408,상민이/NNP 아저씨/NNG 가/JKS 아주머니/NNG 의/JKG 말__01/NNG 에/JKB 묻__03/VV 었/EP 습니다/EF ./SF
+409,·/SP 지역__03/NNG 사회__07/NNG 에/JKB 대하__02/VV ᆫ/ETM 봉사__03/NNG 또는/MAG 이윤/NNG 의/JKG 환원/NNG
+410,이__05/MM 추상__01/NNG 작품__01/NNG 에/JKB 대하__02/VV ᆫ/ETM 해설__03/NNG 역시/MAG 간단/XR 하/XSA 다/EF ./SF
+411,환상__02/NNG 적/XSN 이/VCP ᆫ/ETM 것/NNB 에/JKB 관심__01/NNG 이/JKS 많/VA 음/ETN
+412,영국/NNP 민요__02/NNG 에/JKB 많이/MAG 쓰이__03/VV 고/EC 있/VX 다/EF ./SF
+413,그/MM 사람/NNG 은/JX 스스로/MAG 그/MM 허깨비__01/NNG 에/JKB 속__01/VV 고/EC 있/VX 어/EF ./SF
+414,▧/SW 문__08/NNG :/SP 합병증/NNG 에/JKB 는/JX 어떤/MM 것/NNB 이/JKS 있/VV 을까요/EF ?/SF
+415,유태인/NNG 이/VCP 라는/ETM 것/NNB 에/JKB 대하__02/VV ᆫ/ETM 무기__05/NNG 이/VCP 라고/EF ./SF
+416,갑자기/MAG 한기__03/NNG 가/JKS 온몸/NNG 에/JKB 스미/VV 었/EP 다/EF ./SF
+417,식욕/NNG 에/JKB 진실__02/NNG 이/JKS 있/VV 단/ETM 말__01/NNG 이/VCP ᆫ가/EF ?/SF
+418,우리나라/NNG 예술/NNG 은/JX 특히/MAG 합창__01/NNG 에/JKB 약하/VA 다/EF ./SF
+419,조리/VV 거나/EC 꼬치__01/NNG 등/NNB 에/JKB 이용__01/NNG 하/XSV ᆫ다/EF ./SF
+420,그냥/MAG 현재__02/NNG 의/JKG 것/NNB 에/JKB 만족__01/NNG 하/XSA 고/EC 살__01/VV 면/EF ./SF
+421,◈/SW 구/NR 단__11/NNG 팀/NNG ,/SP 초단__01/NNG 팀/NNG 에/JKB 역전__07/NNG 리드__01/NNG 잡__01/VV 아/EC
+422,그리고/MAJ 그림__01/NNG 의/JKG 색깔/NNG 에/JKB 대하__02/VV 아/EC 이야기/NNG 하/XSV ᆫ다/EF ./SF
+423,등/NNB 에/JKB 유의__04/NNG 하/XSV 아서/EC 정하/VV 아야/EC 하/VX ᆫ다/EF ./SF
+424,그/NP 들/XSN 은/JX 서로서로/NNG 에/JKB 대하__02/VV 아/EC 무/XPN 관심__01/NNG 하/XSA 다/EF ./SF
+425,그것/NP ᆫ/JX 고아/NNP 에/JKB 달리__01/VV 어/EC 있/VX 다/EF ./SF "/SS
+426,그러나/MAJ 남성__01/NNG 들/XSN 도/JX 이/NP 에/JKB 지__03/VV 지/EC 않/VX 는다/EF ./SF
+427,눈__01/NNG 에/JKB 익/VA 은/ETM 이정표__02/NNG ./SF
+428,스넬/NNP 의/JKG 법칙/NNG 빛/NNG 의/JKG 굴절__01/NNG 에/JKB 관하/VV ᆫ/ETM 법칙/NNG ./SF
+429,─/SS ─/SS 여기/NP 음식/NNG 이/JKS 입/NNG 에/JKB 맞__01/VV 습니까/EF ?/SF
+430,단풍잎/NNG 이/JKS 눈__01/NNG 에/JKB 따갑/VA 았/EP 다/EF ./SF
+431,학습지/NNG 회사__04/NNG 에/JKB 도움/NNG 을/JKO 청하/VV 는/ETM 것/NNB 이/VCP 다/EF ./SF
+432,공공__02/NNG 정보__06/NNG 에/JKB 대하__02/VV ᆫ/ETM 접근/NNG 및/MAG 정부__08/NNG 조달__03/NNG 방법/NNG 의/JKG 개선__01/NNG
+433,분단국가/NNG 의/JKG 목적__03/NNG 에/JKB 는/JX 두/MM 가지/NNB 대안__03/NNG 이/JKS 있/VV 다/EF ./SF
+434,수평면/NNG 연직선/NNG 에/JKB 대하__02/VV 아/EC 수직__06/NNG 이/VCP ᆫ/ETM 평면/NNG ./SF
+435,철학자/NNG 에/JKB 그것/NP 은/JX 맡기/VV ᆫ다/EF ./SF
+436,제목__02/NNG 과/JKB 는/JX 반대__03/NNG 의/JKG 의문__02/NNG 에/JKB 염려/NNG 를/JKO 하/VV ᆫ다/EF ./SF
+437,누구/NP 가/JKS 그러/VV 는데/EC 위암__02/NNG 에/JKB 특효/NNG 이/VCP 랍니다/EF ./SF
+438,*/SW 현대건설/NNP ,/SP 도로__07/NNG 공사__07/NNG 에/JKB 완패/NNG 두/VV 고/EC 뒷말__01/NNG 무성/XR
+439,실망__02/NNG 이/JKS 온몸/NNG 에/JKB 번지__01/VV 어/EC 가/VX 았/EP 다/EF ./SF
+440,부인__01/NNG 의/JKG 말__01/NNG 에/JKB 나/NP 는/JX 잠자코/MAG 있/VV 었/EP 다/EF ./SF
+441,우리/NP 문학__01/NNG 의/JKG 경우__03/NNG 에/JKB 도/JX 확실히/MAG 그렇/VA 다/EF ./SF
+442,"/SS 진실__02/NNG 에/JKB 저항/NNG 하/XSV ᆯ/ETM 수__02/NNB 있/VV 는가/EF ?/SF "/SS ,/SP
+443,창조__03/NNG 적/XSN 이/VCP 고/EC 재미있/VA 는/ETM 일__01/NNG 에/JKB …/SE …/SE
+444,'/SS 산재__05/NNG 나/VV 면/EC 회사__04/NNG 에/JKB 유리/XR 하/XSA 게/EC 처리__02/NNG ./SF
+445,인사__02/NNG 에/JKB 응답/NNG 없/VA 음/ETN !/SF
+446,오/NNP 반장__08/NNG 은/JX 말__01/NNG 에/JKB 힘__01/NNG 을/JKO 주/VV 었/EP 다/EF ./SF
+447,종교/NNG 그/MM 자체__02/NNG 에/JKB 도/JX 얽매이/VV 지/EC 않/VX 는다/EF ./SF
+448,요새__01/NNG 게임/NNG 에/JKB 빠지__02/VV 어서/EF ./SF "/SS

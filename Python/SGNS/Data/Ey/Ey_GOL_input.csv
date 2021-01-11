@@ -1,0 +1,442 @@
+Number,Sentence
+1,비로소/MAG 주위__02/NNG 경관__04/NNG 이/JKS 눈__01/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+2,사내__01/NNG 의/JKG 손__01/NNG 이/JKS 이마__01/NNG 에/JKB 닿/VV 았/EP 다/EF ./SF
+3,예반__01/NNG 이/JKS 땅/NNG 에/JKB 떨어지/VV 었/EP 다/EF ./SF
+4,그녀/NP 의/JKG 머리칼/NNG 이/JKS 뺨/NNG 에/JKB 달라붙/VV 었/EP 다/EF ./SF
+5,눈물__01/NNG 이/JKS 한/MM 방울__01/NNG 꽃다발/NNG 의/JKG 가시__01/NNG 에/JKB 떨어지/VV 었/EP 다/EF ./SF
+6,모든/MM 것/NNB 이/JKS 땅/NNG 에/JKB 묻히__02/VV 고/EC 말/VX 았/EP 죠/EF ./SF
+7,동진/NNP 의/JKG 말__01/NNG 이/JKS 귀__01/NNG 에/JKB 들어오/VV 지/EC 않/VX 았/EP 다/EF ./SF
+8,그녀/NP 의/JKG 손톱__01/NNG 이/JKS 그/NP 의/JKG 팔__01/NNG 에/JKB 박히/VV 었/EP 다/EF ./SF
+9,오늘/NNG 은/JX 집__01/NNG 들/XSN 이/JKS 집__01/NNG 에/JKB ᆯ/JKO 가/VV 았었/EP 소/EF ./SF
+10,아무튼/MAG 김/NNP 선생/NNG 이/JKS 상좌__03/NNG 에/JKB 앉/VV 아/EC 주/VX 어/EF ./SF
+11,분식집/NNG 이/JKS 눈__01/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+12,콧등/NNG 과/JC 이마__01/NNG 에/JKB 식은땀/NNG 이/JKS 나/VV 았/EP 다/EF ./SF
+13,"/SS 무엇/NP 보다/JKB 디지털/NNG 영화__01/NNG 에/JKB 욕심/NNG 이/JKS 나/VV 았/EP 습니다/EF ./SF
+14,훈련병/NNG 이/JKS 땅바닥/NNG 에/JKB 퍽__01/MAG 쓰러지/VV 었/EP 다/EF ./SF
+15,에드몬톤/NNP 이/JKS 시야__03/NNG 에/JKB 들어오/VV 기/ETN 시작/NNG 하/XSV 았/EP 다/EF ./SF
+16,벌써/MAG 등__01/NNG 에/JKB 척척/XR 하/XSA ᆫ/ETM 땀__01/NNG 이/JKS 배어나/VV 았/EP 다/EF ./SF
+17,그것/NP 이/JKS 이제/MAG 경희/NNP 눈가/NNG 에/JKB 붙/VV 었/EP 다/EF ./SF
+18,그제야/MAG 나/NP 의/JKG 눈__01/NNG 에/JKB 발신인/NNG 이/JKS 뚜렷이/MAG 들어오/VV 았/EP 다/EF ./SF
+19,106/SN 동__15/NNB 이/JKS 저만큼/MAG 눈__01/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+20,그/NP 의/JKG 눈빛__01/NNG 에/JKB 고통/NNG 이/JKS 떠오르/VV 았/EP 다/EF ./SF
+21,그런데/MAJ 그/MM 내용__02/NNG 이/JKS 머리__01/NNG 에/JKB 는/JX 전혀__01/MAG 안/MAG 들어오/VV 는걸/EF ./SF
+22,잎/NNG 들/XSN 이/JKS 땅/NNG 에/JKB 떨어지/VV 어/EC 있/VX 는/ETM 모습__01/NNG ./SF
+23,유족민/NNG 한/MM 분__01/NNB 의/JKG 말씀/NNG 이/JKS 기억/NNG 에/JKB 남/VV 는다/EF ./SF
+24,의원__05/NNG 등__05/NNB 이/JKS 물망__02/NNG 에/JKB 오르/VV 고/EC 있/VX 다/EF ./SF
+25,연출__02/NNG 의/JKG 팔__01/NNG 이/JKS 그/NP 의/JKG 어깨__01/NNG 에/JKB 올라오/VV 았/EP 다/EF ./SF
+26,마침/MAG 건너편/NNG 층계/NNG 에/JKB 도/JX 저녁/NNG 불빛/NNG 이/JKS 반짝__01/MAG 들어오/VV ᆫ다/EF ./SF
+27,달__05/NNG 이/JKS 구름__01/NNG 속__01/NNG 에/JKB 들__01/VV 어/EC 어둑어둑/XR 하/XSA 았/EP 다/EF ./SF
+28,서예__01/NNG 계/XSN 에/JKB 먹물/NNG 이/JKS 튀/VV 었/EP 다/EF ./SF
+29,최/NNP 서방__02/NNG 은/JX 들__01/NNG 에/JKB 나가/VV 았/EP 다/EF ./SF
+30,"/SS 군__05/NNG 에/JKB 가/VV ᆫ단/ETM 말__01/NNG 이/VCP 야/EF ./SF "/SS
+31,이__05/MM 도시__03/NNG 에/JKB 도/JX 추석__01/NNG 은/JX 오/VV ᆫ다/EF ./SF
+32,삼청교육대/NNP 에/JKB 끌려가/VV 았었/EP 대/EF ./SF
+33,리처드/NNP 클라인/NNP 은/JX 이__05/MM 문제__06/NNG 에/JKB 다르/VA 게/EC 접근/NNG 하/XSV ᆫ다/EF ./SF
+34,먼저/MAG 책방__01/NNG 에/JKB 가/VV 았/EP 어/EF ./SF
+35,정확/XR 하/XSA 게/EC 명치__01/NNG 에/JKB 걸리__01/VV 었/EP 다/EF ./SF
+36,남산/NNP 에/JKB 나/JX 올라가/VV 자/EF ./SF ]/SS
+37,벽__06/NNG 에/JKB 붙/VV 어/EC ,/SP 빨리/MAG 새끼__02/NNG 들/XSN 아/JKV !/SF "/SS
+38,한/MM 발__01/NNG 이/JKS 물__01/NNG 속__01/NNG 에/JKB 빠지__02/VV 었/EP 다/EF ./SF
+39,아버지/NNG 는/JX 형__01/NNG 을/JKO 침대__02/NNG 에/JKB 뉘__01/VV 었/EP 다/EF ./SF
+40,그/MM 집__01/NNG 에/JKB 가/VV 지/EC 말/VX 아/EC ,/SP 으앙앙/IC …/SE ./SF "/SS
+41,마을__01/NNG 에/JKB 방물장수/NNG 가/JKS 들어오/VV 았/EP 다/EF ./SF
+42,나/NP 는/JX 그녀/NP 의/JKG 몸뚱이/NNG 위__01/NNG 에/JKB 엎어지/VV 었/EP 다/EF ./SF
+43,그런데/MAJ 하필/MAG 타구__02/NNG 는/JX 파울/NNG 라인/NNG 위__01/NNG 에/JKB 떨어지/VV 었/EP 다/EF ./SF
+44,결론__02/NNG 에/JKB 도달__01/NNG 하/XSV ᆯ/ETM 수__02/NNB 있/VV 다/EF ./SF
+45,"/SS 저/NP ᆫ/JX 이__05/MM 대학__01/NNG 에/JKB 가/VV 고/EC 싶/VX 습니다/EF ./SF "/SS
+46,"/SS 등허리/NNG 에/JKB 붙/VV 었/EP 어요/EF ./SF "/SS
+47,그/NP 보다/JKB 오늘/NNG 저녁/NNG 모임__01/NNG 에/JKB 조금/MAG 늦/VV 겠/EP 어요/EF ./SF
+48,언덕/NNG 꼭대기/NNG 외딴/MM 구멍가게/NNG 에/JKB 닿/VV 았/EP 습니다/EF ./SF
+49,류/NNP 씨/NNB 는/JX 허탈감/NNG 에/JKB 빠지__02/VV 었/EP 다/EF ./SF
+50,9/SN 층__02/NNG 에/JKB 다다르/VV ᆫ/ETM 것/NNB 이/VCP 었/EP 다/EF ./SF
+51,반대__03/NNG 로/JKB LG/SL 는/JX 벼랑/NNG 에/JKB 몰리__01/VV 었/EP 다/EF ./SF
+52,흰색/NNG 초__01/NNG 여러/MM 개/NNB 를/JKO 욕조/NNG 테두리/NNG 에/JKB 올려놓/VV 았/EP 다/EF ./SF
+53,끝섬/NNP 에/JKB 가/VV 아서/EC 자살__01/NNG 하/XSV 겠/EP 다는/ETM 미애/NNP 의/JKG 고백/NNG ./SF
+54,"/SS 저기/NP 납골당/NNG 에/JKB 모시/VV ᆫ답니다/EF ./SF "/SS
+55,반야원/NNP 에/JKB 가/VV 았/EP 어/EF ./SF
+56,나/NP 는/JX 교사__09/NNG 휴양원/NNG 에/JKB ᆯ/JKO 가/VV 려고/EC 하/VX ᄇ니다/EF ./SF
+57,그러면/MAJ 또다시/MAG 책장__02/NNG 에/JKB 꽂히/VV 어/EC 버리/VX ᆫ다/EF ./SF
+58,우리/NP 는/JX 지금__03/MAG CI/SL 의/JKG 시대__02/NNG 에/JKB 오/VV 아/EC 있/VX 다/EF ./SF
+59,오늘/NNG 은/JX 원장__07/NNG 2/SN 구__15/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+60,이__05/MM 놀이터/NNG 에/JKB 참/MAG 오/VV 고/EC 싶/VX 었/EP 어/EF ./SF "/SS
+61,"/SS 저/NP 네/XSN 집__01/NNG 에/JKB 아주/MAG 가/VV 았/EP 어요/EF ./SF "/SS
+62,그러나/MAJ 선생__01/NNG 님/XSN 은/JX 첨벙/MAG 물__01/NNG 에/JKB 엎어지/VV 었/EP 습니다/EF ./SF
+63,이윽고/MAG 버스__02/NNG 는/JX 바닷가/NNG 에/JKB 닿/VV 았/EP 다/EF ./SF
+64,춘기/NNP 의/JKG 말__01/NNG 은/JX 이치__06/NNG 에/JKB 닿/VV 았/EP 다/EF ./SF
+65,조금/MAG 전__08/NNG 문방구/NNG 에/JKB ᆯ/JKO 다녀오/VV 았/EP 습니다/EF ./SF
+66,그래서/MAJ 자리__02/NNG 에/JKB 눕__01/VV 었/EP 다/EF ./SF
+67,그래서/MAJ 사범대/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+68,떡국/NNG 이나/JC 칼국수/NNG ,/SP 찌개__01/NNG 에/JKB 살짝/MAG 고명__01/NNG 으로/JKB 올려놓/VV 는다/EF ./SF
+69,이윽고/MAG 약수터/NNG 에/JKB 다다르/VV 았/EP 습니다/EF ./SF
+70,"/SS 어/IC ?/SF 너/NP 네/XSN 집__01/NNG 에/JKB 가/VV 았/EP 구나/EF !/SF "/SS
+71,누구/NP 이/VCP ᆫ가/EC 학교/NNG 에/JKB 신문__10/NNG 을/JKO 가져오/VV 았/EP 다/EF ./SF
+72,인생__01/NNG 에/JKB 여유/NNG 를/JKO 가지/VV 어다/EC 주/VX 죠/EF ./SF
+73,"/SS 야/IC ,/SP 우리/NP 산꼭대기/NNG 에/JKB 안/MAG 가/VV ᆯ래/EF ?/SF "/SS
+74,저/NP 는/JX 본교__01/NNG 에/JKB 나/JX 다녀오/VV ᆯ까/EC 하/VX ᄇ니다/EF ./SF
+75,일본/NNP 에/JKB 가/VV 아/EC 보/VX 아/EC ,/SP 이/MM 년__01/NNB 들/XSN 아/JKV !/SF
+76,해외/NNG 풍토병/NNG 이/JKS 국내__02/NNG 에/JKB 스며들/VV ᆫ다고/EC 하/VX ᆫ다/EF ./SF
+77,얼른/MAG 버스__02/NNG 에/JKB 오르/VV 고/EC 말/VX ᆫ다/EF ./SF
+78,-/SS 술집/NNG 에/JKB 도/JX 자주/MAG 가/VV 시/EP 는지요/EF ./SF
+79,그/MM 강물/NNG 속__01/NNG 에/JKB 당신/NP 과/JC 내/NP 가/JKS 떠가/VV ᄇ니다/EF ./SF
+80,어디/NP 에/JKB ᆯ/JKO 가/VV 아/EC 있/VX 을까/EF ./SF
+81,얼마/NNG 전__08/NNG 고향__02/NNG 에/JKB ᆯ/JKO 다녀오/VV 았/EP 다네/EF ./SF
+82,물품/NNG 은/JX 중국/NNP 음식/NNG 에/JKB 필수__02/NNG 적/XSN 으로/JKB 들어가__01/VV 는/ETM 숙주나물/NNG ./SF
+83,"/SS 반야원/NNP 에/JKB 가/VV 시/EP ᆯ라구요/EF ?/SF "/SS
+84,다시/MAG 는/JX 밖/NNG 에/JKB 나가/VV 지/EC 않/VX 겠/EP 습니다/EF ./SF "/SS 하고/JKQ
+85,아마/MAG 목적지/NNG 에/JKB 다다르/VV ᆫ/ETM 모양__02/NNG 이/VCP 었/EP 다/EF ./SF
+86,그래서/MAJ 경화/NNP 는/JX 단도직입/NNG 으로/JKB 본론/NNG 에/JKB 들어가__01/VV 았/EP 다/EF ./SF
+87,공원__03/NNG 에/JKB 가/VV 아요/EF ./SF
+88,아이__01/NNG 도/JX 남편__01/NNG 도/JX 눈__01/NNG 에/JKB 들어오/VV 지/EC 않/VX 았/EP 어요/EF ./SF
+89,주머니/NNG 에/JKB 주민/NNG 등록증/NNG 이/JKS 있/VV 었/EP 거든요/EF ./SF
+90,저녁/NNG 차__06/NNG 로/JKB 대구/NNP 에/JKB 가/VV 았/EP 다/EF ./SF
+91,마을__01/NNG 어귀__01/NNG 에/JKB 이르__01/VV 러/EC 있/VX 었/EP 다/EF ./SF
+92,재수__01/NNG 하/XSV 아/EC 본교__01/NNG 에/JKB 오/VV ᄆ/ETN ./SF
+93,아이__01/NNG 는/JX 혜미/NNP 집__01/NNG 에/JKB 가/VV 지/EC 않/VX 았/EP 다/EF ./SF
+94,나/NP 는/JX 한/MM 아이__01/NNG 의/JKG 집__01/NNG 에/JKB 가/VV 아서/EC ,/SP
+95,"/SS 언니/NNG ,/SP 나무__01/NNG 에/JKB 올라가/VV 자/EF ./SF "/SS
+96,서부극/NNG 을/JKO 상영__01/NNG 하/XSV 는/ETM 극장/NNG 에/JKB ᆯ/JKO 가/VV 자/EF ./SF
+97,그/NP 는/JX 유리창/NNG 에/JKB 바짝/MAG 다가서/VV 었/EP 다/EF ./SF
+98,가르시아/NNP 는/JX 그/MM 열차__02/NNG 에/JKB 오르/VV 았/EP 다/EF ./SF
+99,[/SS 손__02/NNG 님/XSN 방__07/NNG 에/JKB 가/VV 아/EC 보/VX 아라/EF ./SF ]/SS
+100,마침내/MAG 땅/NNG 에/JKB 떨어지/VV ᆫ다/EF ./SF
+101,한상철/NNP 번역/NNG )/SS 로/JKB 무대__06/NNG 에/JKB 올리__01/VV 었/EP 다/EF ./SF
+102,아내__01/NNG 가/JKS 책장__02/NNG 에/JKB 꽂/VV 아/EC 버리/VX ᆫ/ETM 것/NNB 이/VCP 다/EF ./SF
+103,차돌이/NNP 도/JX 엄마/NNG 저고리__01/NNG 에/JKB 얼굴/NNG 을/JKO 기대__01/VV 었/EP 습니다/EF ./SF
+104,고향__02/NNG 들__01/NNG 녘/NNB 黃小芝/SH 식탁/NNG 에/JKB 봄/NNG 나물__01/NNG 을/JKO 올리__01/VV ᆫ다/EF ./SF
+105,마침내/MAG 그/NP 가/JKS 나/NP 를/JKO 풀밭/NNG 위__01/NNG 에/JKB 내팽개치/VV 었/EP 다/EF ./SF
+106,「/SS 사랑방/NNG 에/JKB ᆯ랑/JX 나가/VV 지/EC 말/VX 아라/EC …/SE …/SE 」/SS
+107,속셈/NNG 학원__02/NNG 에/JKB 보내/VV 시/EP 어요/EF ./SF "/SS
+108,나/NP ᆫ/JX 따뜻/XR 하/XSA ᆫ/ETM 방__07/NNG 에/JKB 들어가__01/VV 면/EC …/SE "/SS
+109,-/SS 그럼/MAJ 그/MM 애__02/NNG 집__01/NNG 에/JKB 한번/NNG 가/VV 아/EC 보/VX ᆯ까/EF ?/SF
+110,괜히/MAG 이곳/NP 에/JKB 오/VV 았/EP 구나/EC 싶/VX 다/EF ./SF
+111,수창이/NNP 는/JX 말없이/MAG 신문__10/NNG 을/JKO 탁자__01/NNG 위__01/NNG 에/JKB 던지/VV 었/EP 다/EF ./SF
+112,그러다가/MAJ 대학__01/NNG 에/JKB 들어오/VV 면/EC 훨씬/MAG 자유__03/NNG 롭/XSA 어/EC 지/VX ᆫ다/EF ./SF
+113,이윽고/MAG 차__06/NNG 는/JX 호텔/NNG 앞/NNG 에/JKB 닿/VV 았/EP 다/EF ./SF
+114,마침내/MAG 그/NP 는/JX 상자__10/NNG 에/JKB 푹/MAG 거꾸러지/VV 었/EP 다/EF ./SF
+115,시골/NNG 에/JKB 가/VV 자/EF ./SF
+116,나/NP 는/JX 술잔/NNG 을/JKO 탁자__01/NNG 에/JKB 올려놓/VV 았/EP 다/EF ./SF
+117,"/SS 내일/NNG 그만/MAG 경성/NNP 에/JKB 나/JX 가/VV ᆯ까/EF ?/SF "/SS
+118,아래층/NNG 의/JKG 시멘트/NNG 바닥__01/NNG 에/JKB 창길/NNP 을/JKO 내동댕이치/VV 었/EP 다/EF ./SF
+119,일행__01/NNG 이/JKS 마침내/MAG 절벽/NNG 끝/NNG 에/JKB 이르__01/VV 었/EP 다/EF ./SF
+120,그/MM 자세__02/NNG 로/JKB '/SS 작가__01/NNG 탐방/NNG '/SS 에/JKB 들어가__01/VV 자/EF ./SF
+121,저/NP 는/JX 그/NP 의/JKG 어깨__01/NNG 에/JKB 이마__01/NNG 를/JKO 대__01/VV 었/EP 습니다/EF ./SF
+122,중년__01/NNG 사내__01/NNG 가/JKS 호주머니/NNG 에/JKB 손__01/NNG 을/JKO 찌르/VV 었/EP 다/EF ./SF
+123,아기__01/NNG 는/JX 연탄__03/NNG 을/JKO 언덕길/NNG 에/JKB 내려놓/VV 았/EP 습니다/EF ./SF
+124,그럼/MAJ 서대문/NNP 에/JKB ᆫ/JX 가/VV 나/EF ?/SF
+125,"/SS 투표장/NNG 에/JKB 들어가__01/VV ᄇ니다/EF ./SF "/SS
+126,누구/NP 두/MM 사람/NNG 은/JX 다른/MM 크로스/NNG 에/JKB 가/VV 아/EC 보/VX 고/EF ./SF
+127,그래서/MAJ 나/NP 는/JX 너/NP 를/JKO 제자리/NNG 에/JKB 뉘__01/VV 었/EP 단다/EF ./SF
+128,"/SS 어제/MAG 이/MM 도시__03/NNG 에/JKB 오/VV 았/EP 어요/EF ./SF
+129,집__01/NNG 에/JKB 돌아오/VV 면/EC 언필칭이/MAG 원고__03/NNG 타령__01/NNG 이/VCP 다/EF ./SF
+130,모스크바/NNP 에서/JKB 기차__01/NNG 로/JKB 레닌그라드/NNP 에/JKB 내리/VV 었/EP 다/EF ./SF
+131,"/SS 영국/NNP 에/JKB 가/VV 았/EP 다고/EF ?/SF "/SS
+132,'/SS 나/NP ᆫ/JX 어느/MM 공장__02/NNG 에/JKB 팔리/VV 어/EC 가/VX 나/EF ?/SF '/SS
+133,다리__01/NNG 를/JKO 방바닥/NNG 에/JKB 쿵쿵/MAG 드놓__01/VV 았/EP 다/EF ./SF
+134,나/NP 도/JX 올해/NNG 는/JX 대학__01/NNG 에/JKB 꼭__03/MAG 들어가__01/VV 고/EC 싶/VX 어/EF ./SF
+135,너트/NNG 를/JKO 황산마그네슘/NNG 용액/NNG 병__05/NNG 에/JKB 하나/NR 씩/XSN 넣/VV 는다/EF ./SF
+136,그러면/MAJ 벌__03/NNG 이/JKS 몇/MM 마리/NNB 손__01/NNG 에/JKB 올라앉/VV 는다/EF ./SF
+137,"/SS 춘기/NNP 가/JKS 총학생회/NNG 에/JKB 부치__02/VV 지/EF ./SF
+138,짝귀/NNP 가/JKS 단상__03/NNG 에/JKB 오르/VV 아/EC 연설__02/NNG 하/XSV 았/EP 다/EF ./SF
+139,인간__01/NNG 세상__01/NNG 에/JKB 다시/MAG 나가/VV 라/EF ./SF
+140,호상이/NNP 는/JX 공장__02/NNG 에/JKB 들어가__01/VV 겠/EP 다고/EC 말__01/NNG 하/XSV 았/EP 다/EF ./SF
+141,내일/NNG 은/JX 병원__02/NNG 에/JKB 를/JKO 가/VV 아야지/EF !/SF
+142,덕호/NNP 는/JX 담배/NNG 꼬투리__01/NNG 를/JKO 재털이/NNG 에/JKB 팽개치/VV 며/EC ,/SP
+143,도인__09/NNG 도/JX 병원__02/NNG 에/JKB ᆯ/JKO 가/VV 나요/EF ?/SF 」/SS
+144,그/MM 섬__03/NNG 에/JKB ᆯ/JKO 들어가__01/VV 아/EC 보/VX ᆯ/ETM 생각__01/NNG 이/VCP 지/EF ./SF
+145,어느/MM 중년__01/NNG 부인__04/NNG 이/JKS 안경점/NNG 에/JKB 들르/VV 었/EP 다/EF ./SF
+146,자주/MAG 아버지/NNG 무덤/NNG 에/JKB 오/VV 아/EC 보/VX 아야지/EF ./SF
+147,그러면/MAJ 선비/NNP 가/JKS 방적__02/NNG 공장__02/NNG 에/JKB 다니/VV 는가/EF ?/SF
+148,방바닥/NNG 에/JKB 주저앉/VV 았/EP 습니다/EF ./SF
+149,300/SN 환/NNB 을/JKO 바지__01/NNG 호주머니/NNG 에/JKB 넣/VV 었/EP 습니다/EF ./SF
+150,6/SN 시간/NNB 쯤__x02/NNG 걸리__01/VV 어/EC 뚜르크/NNP 에/JKB 도착__01/NNG 하/XSV 았/EP 다/EF ./SF
+151,그리고/MAJ 그/MM 위__01/NNG 에/JKB 손__01/NNG 을/JKO 대/VV 어/EC 보/VX 았/EP 다/EF ./SF
+152,새벽__01/NNG 차__06/NNG 로/JKB 대구/NNP 에/JKB 가/VV 았/EP 다/EF ./SF
+153,"/SS 그럼/MAJ ,/SP 우리/NP 집__01/NNG 에/JKB 가/VV 자/EF ./SF "/SS
+154,위협/NNG 사격__03/NNG 과/JKB 함께/MAG 방송국/NNG 에/JKB 뛰어들/VV 었/EP 다/EF ./SF
+155,나/NP 는/JX 민석이/NNP 와/JKB 나란히/MAG 교실/NNG 에/JKB 들어서/VV 었/EP 다/EF ./SF
+156,우선/MAG 이곳/NP 분교장/NNG 육성회장/NNG 네/XSN 집__01/NNG 에/JKB 들__01/VV 었/EP 어/EF ./SF
+157,이/NR 층__02/NNG 에/JKB 빨리/MAG 올라가/VV 아/EC 보/VX 아라/EF ./SF
+158,세진/NNP 은/JX 얼른/MAG 이어폰/NNG 을/JKO 귀__01/NNG 에/JKB 꽂/VV 았/EP 다/EF ./SF
+159,몰래/MAG 산부인과/NNG 에/JKB ᆯ/JKO 찾아가/VV 았/EP 다/EF ./SF
+160,저/MM 방__07/NNG 에/JKB 좀/MAG 들어가__01/VV 아/EC 보/VX 시/EP 라니까요/EF ?/SF
+161,군대__03/NNG 에/JKB 가/VV 았/EP 어요/EF ./SF
+162,"/SS 고향__02/NNG 에/JKB ᆯ/JKO 좀/MAG 가/VV 다가/EC …/SE …/SE "/SS 하고/JKQ
+163,(/SS 할머니/NNG 의/JKG 어깨__01/NNG 에/JKB 기대__01/VV ᆫ다/EF ./SF )/SS
+164,둘/NR 은/JX 사창가/NNG 에/JKB 도/JX 함께/MAG 가/VV 았/EP 다/EF ./SF
+165,"/SS 대천/NNP 에/JKB ᆯ/JKO 가/VV 자구/EF ./SF "/SS
+166,드디어/MAG 임금__01/NNG 은/JX 크/VA ᆫ/ETM 집__01/NNG 에/JKB 도착__01/NNG 하/XSV 았/EP 습니다/EF ./SF
+167,그리고/MAJ 다시/MAG 침대__02/NNG 에/JKB 눕__01/VV 었/EP 다/EF ./SF
+168,그러나/MAJ 러이/NNP 의/JKG 머리__01/NNG 는/JX 바로/MAG 땅바닥/NNG 에/JKB 박히/VV 었/EP 다/EF ./SF
+169,이윤상/NNP 군/NNB 가족__01/NNG 품__01/NNG 에/JKB 돌아오/VV 아/EF !/SF
+170,학교/NNG 에/JKB 가/VV 려고/EF ./SF "/SS
+171,당신/NP 은/JX 이제/MAG 막__01/MAG 프놈펜/NNP 에/JKB 들어서/VV 었/EP 다/EF ./SF
+172,아이__01/NNG 는/JX 아낙/NNG 의/JKG 가슴__01/NNG 에/JKB 얼굴/NNG 을/JKO 묻__02/VV 었/EP 다/EF ./SF
+173,"/SS 광주/NNP 에/JKB 내려가/VV 는/ETM 거/NNB 이/VCP 지요/EF ?/SF "/SS
+174,벌__03/NNG 도/JX 그곳/NP 에/JKB 돌아오/VV ᆫ다/EF ./SF
+175,이틀__01/NNG 후__07/NNG 나/NP 는/JX 경부선/NNP 기차__01/NNG 에/JKB 오르/VV 았/EP 다/EF ./SF
+176,"/SS 집__01/NNG 에/JKB 언제/MAG 가/VV ᆯ/ETM 거/NNB 이/VCP 어/EF ?/SF "/SS
+177,그러면/MAJ 또/MAJ 병원__02/NNG 에/JKB 가/VV 아야/EC 하/VX 아/EF ./SF "/SS
+178,그/NP 가/JKS 성경__03/NNG 과/JC 담뱃갑/NNG 을/JKO 방바닥/NNG 에/JKB 동댕이치/VV 었/EP 다/EF ./SF
+179,가르시아/NNP 는/JX 힘없이/MAG 소파__06/NNG 에/JKB 주저앉/VV 았/EP 다/EF ./SF
+180,섹스/NNG 스캔들/NNG 의/JKG 도마__01/NNG 위__01/NNG 에/JKB 오르/VV 았/EP 다/EF ./SF
+181,아이__01/NNG 는/JX 학교/NNG 에/JKB 들어가__01/VV 았/EP 을까/EF ?/SF
+182,"/SS 할머니/NNG 랑/JC 절__01/NNG 에/JKB 가/VV 아/EF ./SF "/SS
+183,모처럼/MAG 집__01/NNG 에/JKB 들어오/VV 았/EP 는데/EF ./SF ]/SS
+184,그래서/MAJ 고향__02/NNG 에/JKB 가/VV 자/EF ./SF '/SS
+185,나비__03/NNG 는/JX 정신없이/MAG 꽃__01/NNG 위__01/NNG 에/JKB 내려앉/VV 았/EP 습니다/EF ./SF
+186,차__06/NNG 가/JKS 브라운/NNP 씨/NNB 의/JKG 관사__04/NNG 앞/NNG 에/JKB 닿/VV 았/EP 다/EF ./SF
+187,"/SS 그곳/NP 에/JKB 나가/VV 아/EC 있/VX 으마/EF ./SF "/SS
+188,"/SS 저/MM 자식__01/NNG 또/MAG 비명__02/NNG 에/JKB 가/VV 겠/EP 군/EF ./SF "/SS
+189,또/MAJ 염라대왕/NNP 앞/NNG 에/JKB 오/VV ᆯ/ETM 수__02/NNB 밖에/JX ./SF
+190,어서/MAG 배__02/NNG 에/JKB 오르/VV 시/EP ᄇ시오/EF ./SF
+191,나/NP 는/JX 집__01/NNG 에/JKB 오/VV 아서/EC 생각__01/NNG 하/XSV 았/EP 다/EF ./SF
+192,해__01/NNG 는/JX 벌써/MAG 선창머리/NNG 에/JKB 올라오/VV 아/EC 있/VX 었/EP 다/EF ./SF
+193,"/SS 나/NP 하고/JKB 학교/NNG 에/JKB 가/VV 아/EF ./SF "/SS
+194,학교/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+195,그리고/MAJ 길바닥/NNG 에/JKB 칼__01/NNG 을/JKO 버리__01/VV 었/EP 다/EF ./SF
+196,댐__02/NNG 에/JKB 도착__01/NNG 하/XSV 자/EC 몹시/MAG 숨__01/NNG 이/JKS 차__01/VV 았/EP 다/EF ./SF
+197,"/SS 아마/MAG 고아원/NNG 에/JKB 들어가__01/VV 았/EP 겠/EP 지/EF ./SF "/SS
+198,찻집/NNG 에/JKB 들어서/VV 자마자/EC 부터/JX 이/VCP 었/EP 다/EF ./SF
+199,학교/NNG 에/JKB 다니/VV 지/EF ?/SF 」/SS
+200,"/SS 아버지/NNG 괜히/MAG 장__28/NNG 에/JKB 가/VV 시/EP 었/EP 지/EF ?/SF "/SS
+201,갈림길/NNG 에/JKB 오/VV 았/EP 다/EF ./SF
+202,천/NNP 영감__01/NNG 이/JKS 단상__03/NNG 에/JKB 올라가/VV 아/EC 말__01/NNG 하/XSV 았/EP 다/EF ./SF
+203,나/NP 는/JX 진외가/NNG 에/JKB 심부름/NNG 을/JKO 자주/MAG 가/VV 았었/EP 다/EF ./SF
+204,그래서/MAJ 땅/NNG 에/JKB 묻__02/VV 는/ETM 것/NNB 이/VCP 다/EF ./SF
+205,오후__02/NNG 6/SN 시/NNB 30/SN 분__08/NNB 쯤/XSN 기자실/NNG 에/JKB 들르/VV 었/EP 다/EF ./SF
+206,구청__02/NNG 이나/JC 시청__01/NNG 에/JKB 들어가__01/VV 아/EC 보/VX 라/EF ./SF
+207,똘배/NNG 는/JX 어저께/NNG 의/JKG 시궁창/NNG 에/JKB 돌아오/VV 아/EC 있/VX 었/EP 습니다/EF ./SF
+208,언제/MAG 한/MM 번/NNB 학교/NNG 에/JKB 가/VV ᆯ께요/EF ./SF
+209,그/NP 의/JKG 품속/NNG 에/JKB 얼굴/NNG 을/JKO 묻__02/VV 은/ETM 채__09/NNB 그녀/NP 는/JX
+210,넷/NR 은/JX 후다닥/MAG 차__06/NNG 안__01/NNG 에/JKB 올라타/VV 았/EP 다/EF ./SF
+211,"/SS 예/IC ,/SP 엄마/NNG 와/JKB 목욕탕/NNG 에/JKB 가/VV 았었/EP 어요/EF ./SF
+212,"/SS 저/NP 는/JX 이__05/MM 찻간/NNG 에/JKB 타__02/VV 았/EP 습니다/EF ./SF "/SS
+213,"/SS 왜/MAG 또/MAG 한국/NNP 은/JX 이라크/NNP 에/JKB 가/VV 나/EF ?/SF "/SS
+214,'/SS 그/NP 는/JX 용산역/NNP 에/JKB 내리/VV 었/EP 다/EF ./SF
+215,나/NP 는/JX 잠시/MAG 바닥__01/NNG 에/JKB 눕__01/VV 는다/EF ./SF
+216,"/SS 나/NP 그냥/MAG 집__01/NNG 에/JKB 가/VV 는데요/EF ?/SF "/SS
+217,오늘/NNG 유경이/NNP 가/JKS 또/MAG 학교/NNG 에/JKB 따라오/VV 았/EP 다/EF ./SF
+218,마포구/NNP 망원동/NNP 한강/NNP 시민/NNG 공원__03/NNG 에/JKB 이르__01/VV 는/ETM 주택가/NNG 골목길/NNG ./SF
+219,저/NP 도/JX 지금__03/MAG 학교/NNG 에/JKB 가/VV 는/ETM 길__01/NNG 이/VCP ᄇ니다/EF ./SF 」/SS
+220,작년/NNG 운동회/NNG 때__01/NNG 학교/NNG 에/JKB 구경__01/NNG 오/VV 시/EP 었/EP 어/EF ./SF "/SS
+221,벼룩시장/NNG 에/JKB 한번/NNG 들르/VV 어/EC 보/VX 자구/EF !/SF
+222,"/SS 공안국/NNP 에/JKB 가/VV 았었/EP 어/EF ./SF "/SS
+223,이웃/NNG 에/JKB 놀/VV 러/EC 가/VX 시/EP 는/ETM 모양__02/NNG 이/VCP 었/EP 다/EF ./SF
+224,"/SS 행정실/NNG 에/JKB ᆫ/JX 들르/VV 었/EP 나요/EF ?/SF "/SS
+225,경축__02/NNG 대회__02/NNG 에/JKB 늦/VV 겠/EP 다/EF ./SF
+226,아빠/NNG 가/JKS 외국__02/NNG 에/JKB 자주/MAG 다니/VV 시/EP 었/EP 거든요/EF ./SF
+227,형사__02/NNG 는/JX 방__07/NNG 문턱/NNG 에/JKB 털썩/MAG 걸터앉/VV 았/EP 다/EF ./SF
+228,아내__01/NNG 곁/NNG 에/JKB 눕__01/VV 었/EP 다/EF ./SF
+229,아버지/NNG 또/MAG 술집/NNG 에/JKB 가/VV 았/EP 어/EF !/SF
+230,국민학교/NNG 에/JKB 다니/VV 는/ETM 소녀__02/NNG 이/VCP 다/EF ./SF
+231,할머니/NNG (/SS 밭둑/NNG 에/JKB 털썩/MAG 앉/VV 으며/EC )/SS 후유/IC !/SF
+232,우리/NP 엄마/NNG 는/JX 학교/NNG 에/JKB 잘/MAG 안/MAG 오/VV 시/EP ᆫ다/EF ./SF
+233,그/MM 후__08/NNG 우리/NP ᆫ/JX 그/MM 집__01/NNG 에/JKB ᆯ/JKO 자주/MAG 들르/VV ᆫ다/EF ./SF
+234,먼저/MAG 무대__06/NNG 에/JKB 오르/VV ᆫ/ETM 후보__04/NNG 는/JX 김정연/NNP ./SF
+235,어쨌든/MAG 나/NP 는/JX 그날/NNG 투표장/NNG 에/JKB 나가/VV 았/EP 다/EF ./SF
+236,유열/NNP 신효범/NNP 조규찬/NNP 이/JKS 함께/MAG 발렌타인데이/NNG 콘서트/NNG 무대__06/NNG 에/JKB 서/VV ᆫ다/EF ./SF
+237,군청__01/NNG 에/JKB 다다르/VV 았/EP 다/EF ./SF
+238,나/NP 는/JX 옥수수/NNG 밭두렁/NNG 에/JKB 그만/MAG 눕__01/VV 어/EC 버리/VX 었/EP 다/EF ./SF
+239,학교/NNG 에/JKB 들어가__01/VV 니/EC 벌써/MAG 수업__04/NNG 이/JKS 시작__01/NNG 되/XSV 었/EP 다/EF ./SF
+240,화실__04/NNG 에/JKB ᆯ/JKO 가/VV ᆯ/ETM 참/NNB 이/VCP 었/EP 다/EF ./SF
+241,뚱쇠/NNG 는/JX 무시무시/XR 입/NNG 에/JKB 넣/VV 었/EP 다/EF ./SF
+242,예술/NNG 에/JKB 창작/NNG 의/JKG 자유__03/NNG 를/JKO 가지/VV 어다/EC 주/VX 었/EP 으니까요/EF ./SF
+243,모처럼/MAG 처가/NNG 에/JKB 다녀오/VV 는/ETM 길__01/NNG 이/VCP 었/EP 다/EF ./SF
+244,우리/NP 아버지/NNG 께서/JKS 는/JX 탄광__02/NNG 에/JKB 다니/VV 시/EP ᄇ니다/EF ./SF
+245,"/SS 우리/NP 아버지/NNG 는/JX 회사__04/NNG 에/JKB 다니/VV 시/EP 어요/EF ./SF "/SS
+246,당장__02/NNG 산__01/NNG 에/JKB 가/VV 자/EF ./SF "/SS
+247,영순이/NNP 는/JX 우리/NP 집__01/NNG 에/JKB 자주/MAG 드나들/VV 었/EP 다/EF ./SF
+248,"/SS 언론/NNG 에/JKB 흘리/VV ᆫ다/EF ?/SF "/SS "/SS 예/IC ./SF
+249,초/XPN 밭/NNG 할머니/NNG 는/JX 자리__01/NNG 에/JKB 몸져눕/VV 었/EP 습니다/EF ./SF
+250,나/NP 는/JX 꼭__03/MAG 집__01/NNG 에/JKB 가/VV 아야/EC 하/VX ᄇ니다/EF ./SF
+251,고갯길/NNG 에/JKB 다다르/VV 았/EP 다/EF ./SF
+252,집__01/NNG 에/JKB 다녀오/VV 는/ETM 길__01/NNG 이/VCP 었/EP 다/EF ./SF
+253,어서/MAG 외양간/NNG 에/JKB 가/VV 자/EF ./SF "/SS
+254,여행__02/NNG 의/JKG 마지막/NNG 장소__05/NNG 이/VCP ᆫ/ETM 파리/NNP 에/JKB 들어가__01/VV 았/EP 다/EF ./SF
+255,롱아일랜드/NNP 비치__88/NNG 하우스/NNG 에/JKB 가/VV 는/ETM 길__01/NNG 이/VCP 지/EF ?/SF "/SS
+256,어머니/NNG 가/JKS 마루__03/NNG 에/JKB 주저앉/VV 아/EC 탄식__02/NNG 하/XSV 았/EP 다/EF ./SF
+257,그/MM 순간__03/NNG 시어머니/NNG 가/JKS 사립문/NNG 에/JKB 딱__03/MAG 들어서/VV 었/EP 다/EF ./SF
+258,거기/NP 에/JKB 이/VCP 라도/EC 가시/VV 지/EF ./SF
+259,"/SS 오늘/MAG 시골집/NNG 에/JKB 가/VV 아야/EC 하/VX 는데/EF ./SF "/SS
+260,"/SS 서울/NNP 에/JKB 는/JX 왜/MAG 오/VV 시/EP 었/EP 소/EF ?/SF "/SS
+261,동아시아/NNP 의/JKG 시베리아/NNP 에서/JKB 일본/NNP 에/JKB 걸치/VV 어/EC 번식/NNG 하/XSV ᆫ다/EF ./SF
+262,학생/NNG 은/JX 학교/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+263,나/NP 는/JX 룡성/NNP 43/SN 호__14/NNB 초대소/NNG 에/JKB 돌아오/VV 았/EP 다/EF ./SF
+264,어쨌든/MAG 집__01/NNG 에/JKB 가/VV 자/EF ./SF
+265,새삼스러이/MAG 고향__02/NNG 에/JKB 는/JX 왜/MAG 내려오/VV 려는/ETM 거/NNB 이/VCP 야/EF ./SF
+266,우리/NP 들/XSN 은/JX 정류장/NNG 에/JKB 나가/VV 았/EP 다/EF ./SF
+267,남수/NNP 는/JX 35/SN 노트/NNG 쾌속정/NNG 에/JKB 몸__01/NNG 을/JKO 싣/VV 었/EP 다/EF ./SF
+268,어느/MM 사무실/NNG 에/JKB 갖/VV 다/EC 주/VX 었/EP 어/EF ?/SF
+269,그리고/MAJ 무릎/NNG 위__01/NNG 에/JKB 우산__01/NNG 을/JKO 놓__01/VV 는다/EF ./SF
+270,"/SS 아버지/NNG ,/SP 제/NP 가/JKS 장터/NNG 마을__01/NNG 에/JKB 다녀오/VV ᆯ게요/EF ./SF
+271,그냥/MAG 책__01/NNG 에/JKB 눈__01/NNG 을/JKO 박/VV 고/EC 있/VX 었/EP 다/EF ./SF
+272,김/NNP 은/JX 자리__01/NNG 에/JKB 앉/VV 으며/EC 현/NNP 더러/JKB ,/SP
+273,그/NP 들/XSN 은/JX 원장__07/NNG 을/JKO 마당/NNG 에/JKB 패대기치/VV 었/EP 다/EF ./SF
+274,그런데/MAJ 이/NP 처럼/JKB 자네/NP 는/JX 여기/NP 에/JKB 오/VV 아/EC 있/VX 구먼/EF ./SF
+275,산소__01/NNG 에/JKB 오/VV 시/EP 었/EP 습니꺼/EF ?/SF "/SS
+276,"/SS 우물__01/NNG 에/JKB 나가/VV 아/EC 보/VX 아/EF !/SF "/SS
+277,그래서/MAJ 현장__03/NNG 에/JKB 나가/VV 아야/EC 하/VX 았/EP 다/EF ./SF
+278,최경지/NNP ,/SP 집__01/NNG 에/JKB 가/VV 아서/EC 보/VX 자/EF ./SF
+279,"/SS 복덕방/NNG 에/JKB 좀/MAG 가/VV 아/EC 보/VX 지/EF ./SF "/SS
+280,"/SS 가끔/MAG 이곳/NP 에/JKB 오/VV 곤/EC 하/VX 지요/EF ./SF
+281,"/SS 저/NP ᆫ/JX 할머니/NNG 집__01/NNG 에/JKB 가/VV 겠/EP 습니다/EF ./SF
+282,학교/NNG 에/JKB 가/VV 았/EP 습니다/EF ./SF
+283,우리/NP 친정__04/NNG 에/JKB 가/VV 면/EC 얼마나/MAG 사근사근/XR 하/XSA ᆫ데/EF ./SF
+284,자연__01/NNG 에/JKB 들/XSN 너무/MAG 돌아오/VV 아/EC 걱정/NNG 이/VCP 야/EF ./SF "/SS
+285,집__01/NNG 에/JKB 거의/MAG 다/MAG 오/VV 아/EC 가/VX ᆫ다/EF ./SF
+286,엄마/NNG 는/JX 저고리__01/NNG 에/JKB 얼굴/NNG 을/JKO 묻__02/VV 었/EP 습니다/EF ./SF
+287,"/SS 종가__01/NNG 에/JKB 가/VV ᆫ다/EF ./SF
+288,"/SS 왜/MAG 국문__01/NNG 과__04/NNG 에/JKB ᆯ/JKO 가/VV 았/EP 죠/EF ?/SF "/SS
+289,경북고등학교/NNP 에/JKB 무/XPN 시험__03/NNG 진학/NNG 을/JKO 하/VV 았/EP 다/EF ./SF
+290,엄마/NNG 와/JKB 같이/MAG 밭/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+291,그래서/MAJ 인천/NNP 에/JKB 가/VV ᆫ/ETM 거/NNB 이/VCP 었/EP 어/EF ./SF
+292,오후__02/NNG 본교__01/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+293,동쪽/NNG 회랑/NNG 에/JKB 들어서/VV 자/EC 사방__03/NNG 은/JX 이미/MAG 어둑/XR 하/XSA 다/EF ./SF
+294,8/SN 시/NNB 차__06/NNG 로/JKB 대구/NNP 에/JKB 가/VV 았/EP 다/EF ./SF
+295,"/SS 학교/NNG 에/JKB 다녀오/VV 았/EP 습니다/EF ./SF "/SS
+296,[/SS 남산/NNP 에/JKB 가/VV 자니까/EC …/SE ./SF ]/SS
+297,매일/MAG 아침/NNG 산__01/NNG 에/JKB 같이/MAG 가/VV 니까/EF ./SF
+298,그/NP 는/JX 다시/MAG 침대__02/NNG 에/JKB 눕__01/VV 었/EP 다/EF ./SF
+299,나/NP ᆫ/JX 다시/MAG 주인__01/NNG 의/JKG 손__01/NNG 에/JKB 되돌아오/VV 았/EP 다/EF ./SF
+300,밭두덩/NNG 에/JKB 올라서/VV 자/EC 돌각/NNG 담__01/NNG 이/VCP 다/EF ./SF
+301,"/SS 여보/IC ,/SP 병원__02/NNG 에/JKB 가/VV 아/EC 보/VX ᄇ시다/EF ./SF "/SS
+302,"/SS 나/NP 사실/MAG 여기/NP 에/JKB 오/VV ᆯ/ETM 처지/NNG 가/JKS 아니/VCN 야/EF ./SF
+303,교장실/NNG 에/JKB 가/VV 아/EC 보/VX 았/EP 다/EF ./SF
+304,희은/NNP 은/JX 한치/NNG 를/JKO 방바닥/NNG 에/JKB 패대기/NNG 를/JKO 치__02/VV 었/EP 다/EF ./SF
+305,규혁/NNP 은/JX 소파__06/NNG 에/JKB 그대로/MAG 주저앉/VV 았/EP 다/EF ./SF
+306,-/SS 공장__02/NNG 에/JKB 다니/VV 려고/EC 하/VX 았었/EP 어요/EF ./SF
+307,또/MAG 초소/NNG 에/JKB 가/VV 았었/EP 소/EF ?/SF 」/SS
+308,"/SS 샘골/NNP 단경이/NNP 네/XSN 집__01/NNG 에/JKB 가/VV 시/EP 었/EP 다/EF ./SF
+309,"/SS 그리고/MAJ 우리/NP 집__01/NNG 에/JKB 애__02/NNG 좀/MAG 보내/VV 어/EF ./SF
+310,사설__01/NNG 학원__02/NNG 에/JKB 다니/VV 는/ETM 학생/NNG 은/JX 소수__08/NNG 이/VCP 다/EF ./SF
+311,유치원/NNG 에/JKB 다니/VV ᆯ/ETM 때__01/NNG 이/VCP 었/EP 다/EF ./SF
+312,그곳/NP 에/JKB 가/VV 자/EF ./SF
+313,방학/NNG 하/XSV 아서/EC 집__01/NNG 에/JKB 가/VV 는/ETM 거/NNB 이/VCP 가/EF ./SF "/SS
+314,대모벌/NNP 은/JX 그곳/NP 에/JKB 먹이/NNG 를/JKO 내려놓/VV 는다/EF ./SF
+315,"/SS 저/MM 총각/NNG 하고/JKB 교육청/NNG 에/JKB 좀/MAG 가/VV ᆯ려고요/EF ./SF "/SS
+316,나/NP 는/JX 빨리/MAG 과학실/NNG 에/JKB 들어가__01/VV 았/EP 다/EF ./SF
+317,-/SS 왜/MAG 공장__02/NNG 에/JKB 가/VV 려고/EC 하/VX 았/EP 지/EF ?/SF
+318,영순이/NNP 는/JX 엉거주춤/MAG 다시/MAG 프레이저/NNP 옆/NNG 에/JKB 앉/VV 았/EP 다/EF ./SF
+319,아/IC 왜/MAG 시청역/NNP 에/JKB ᆯ/JKO 안/MAG 가/VV 아/EF ?/SF
+320,작은아버지/NNG 는/JX 누나/NNG 를/JKO 마루__03/NNG 위__01/NNG 에/JKB 반듯이/MAG 눕히/VV 었/EP 다/EF ./SF
+321,K/SL 는/JX 소파__06/NNG 에/JKB 앉/VV 았/EP 다/EF ./SF
+322,분교장/NNG 에/JKB 갖/VV 다/EC 주/VX ᆫ단다/EF ./SF
+323,밤__01/NNG 의/JKG 숲__01/NNG 에/JKB 가/VV 아/EC 보/VX 았/EP 습니까/EF ?/SF
+324,어느새/MAG 교문__01/NNG 에/JKB 들어가__01/VV 았/EP 다/EF ./SF
+325,그래서/MAJ 또/MAG 자리__02/NNG 에/JKB 눕__01/VV 어/EC 있/VX 어야/EC 하/VX 았/EP 습니다/EF ./SF
+326,내일/NNG 은/JX ,/SP 약국__02/NNG 에/JKB 가/VV 아야/EC 하/VX 겠/EP 다/EF ./SF
+327,우리/NP 일행__01/NNG 은/JX 모두/MAG 자리__01/NNG 에/JKB 주저앉/VV 았/EP 다/EF ./SF
+328,학교/NNG 에/JKB 돌아오/VV 니/EC 4/SN 시/NNB 반__07/NNG 이/VCP 더라/EF ./SF
+329,모란공원/NNP 에/JKB 가/VV ᆫ다/EF ./SF
+330,저녁/NNG 에/JKB 댁/NNG 으로/JKB 찾아뵙/VV 겠/EP 습니다/EF ./SF "/SS
+331,'/SS 읍__01/NNG 에/JKB 까지/JX 같이/MAG 가/VV ᆯ걸/EF !/SF
+332,"/SS 동해/NNP 에/JKB 가/VV ᄇ니다/EF ./SF "/SS
+333,어둑/XR 하/XSA 아/EC 지/VX ᆯ/ETM 무렵/NNB 경성역/NNP 에/JKB 내리/VV 었/EP 다/EF ./SF
+334,동수/NNP 는/JX 바닷가/NNG 모래__01/NNG 위__01/NNG 에/JKB 털썩/MAG 주저앉/VV 았/EP 습니다/EF ./SF
+335,호길/NNP 은/JX 시나브로/MAG 자리__01/NNG 에/JKB 주저앉/VV 았/EP 다/EF ./SF
+336,버스__02/NNG 가/JKS 노루목/NNP 종점/NNG 에/JKB 서/VV 었/EP 다/EF ./SF
+337,그리고/MAJ 점심시간/NNG 이/VCP 면/EC 학교/NNG 뒷산/NNG 에/JKB 올라가/VV 았/EP 다/EF ./SF
+338,아저씨/NNG 는/JX 여전히/MAG 침대__02/NNG 에/JKB 눕__01/VV 었/EP 다/EF ./SF
+339,동창회/NNG 모임__01/NNG 에/JKB 도/JX 전혀__01/MAG 나가/VV 지/EC 않/VX 았/EP 다/EF ./SF
+340,대학__01/NNG 에/JKB 떨어지/VV 어/EC 보/VX 아라/EF ./SF
+341,몰래/MAG 극장/NNG 에/JKB ᆯ/JKO 가/VV 고/EC 싶/VX 어/EC 하/VX ᆫ다/EF ./SF
+342,"/SS 나/NP 집__01/NNG 에/JKB 못/MAG 들어가__01/VV 아/EF ./SF "/SS
+343,신부__10/NNG 집__01/NNG 에/JKB 도착__01/NNG 하/XSV 면/EC 전안례/NNG 를/JKO 올리__01/VV ᆫ다/EF ./SF
+344,공항__02/NNG 에/JKB 나/JX 가/VV ᆯ까/EF ?/SF
+345,"/SS 아저씨/NNG ,/SP 나/NP ᆫ/JX 고향__02/NNG 에/JKB 가/VV 고/EC 싶/VX 어요/EF ./SF
+346,「/SS 그럼/MAJ 어서/MAG 들/XSN 집__01/NNG 에/JKB 가/VV 아/EC 보/VX 아/EF ./SF 」/SS
+347,누님/NNG 이/JKS 방__07/NNG 에/JKB 들어가__01/VV 시/EP ᆫ다/EF ./SF
+348,"/SS '/SS 이제/MAG ,/SP 우리/NP 집__01/NNG 에/JKB 가/VV 자/EC ./SF '/SS
+349,왜/MAG 여의도/NNP 에/JKB 가/VV 았/EP 습니까/EF ?/SF …/SE …/SE
+350,결국/NNG 대학__01/NNG 에/JKB 는/JX 들어가__01/VV 지/EC 못하/VX ᄆ/ETN ./SF
+351,어미__01/NNG 가/JKS 거지__01/NNG 차림/NNG 으로/JKB 희망원/NNP 에/JKB 찾아오/VV 았/EP 던/ETM 날__01/NNG ./SF
+352,자/IC ,/SP 이제/MAG 동물원/NNG 에/JKB 다/MAG 오/VV 았/EP 다/EF ./SF
+353,이곳/NP 에/JKB 도착__01/NNG 하/XSV 자/EC 모두/MAG 인차/NNG 에서/JKB 내리/VV 었/EP 다/EF ./SF
+354,드디어/MAG 그/MM 아이__01/NNG 네/XSN 집__01/NNG 에/JKB 이르__01/VV 었/EP 습니다/EF ./SF
+355,아화/NNP 학교/NNG 의/JKG 분교장/NNG 에/JKB 가/VV 아/EC 보/VX 았/EP 다/EF ./SF
+356,우리/NP 어머니/NNG 는/JX 선탄__02/NNG 에/JKB 나가/VV 시/EP ᆫ다/EF ./SF
+357,다음날/NNG 은/JX 일요일/NNG 이/VCP 어서/EC 교회__02/NNG 에/JKB 가/VV 았/EP 다/EF ./SF
+358,윤/NNP 서방__02/NNG 은/JX 면사무소/NNG 에/JKB 까지/JX 그/NP 를/JKO 따라오/VV 았/EP 다/EF ./SF
+359,"/SS 여태/MAG 까지/JX 집__01/NNG 에/JKB 안/MAG 가/VV 았/EP 어/EF ?/SF "/SS
+360,빵__03/NNG 에/JKB 가/VV 는/ETM 것/NNB 이/JKS 지긋지긋__02/MAG 하/XSA 았/EP 지요/EF ./SF
+361,하여튼/MAG 서울/NNP 에/JKB 가/VV 고/EC 싶/VX 어요/EF ./SF
+362,"/SS 시장__04/NNG 에/JKB 가/VV 시/EP 었/EP 어/EF ./SF "/SS
+363,"/SS 서울/NNP 에/JKB 가/VV 고/EC 싶/VX 어요/EF ./SF
+364,"/SS 서울/NNP 에/JKB 언제/MAG 오/VV 시/EP 었/EP 습니까/EF ?/SF "/SS
+365,"/SS 이__05/MM 차__06/NNG 에/JKB 가/VV 시/EP 오/EC ?/SF "/SS
+366,나/NP 도/JX 내일/NNG 부터/JX 는/JX 직장__05/NNG 에/JKB ᆯ/JKO 나가/VV ᆫ다/EF ./SF
+367,"/SS 병원__02/NNG 에/JKB 가/VV 아야/EC 하/VX 지/EC 않/VX 겠/EP 어요/EF ?/SF "/SS
+368,그리고/MAJ 그/NP 는/JX 군대__03/NNG 에/JKB 끌려가/VV ᆫ다/EF ./SF
+369,"/SS 엄니/NNG 엄니/NNG ,/SP 나/NP 집__01/NNG 에/JKB 가/VV ᆯ라요/EF ./SF "/SS
+370,"/SS 도서관/NNG 에/JKB 자주/MAG 오/VV 나/EC 보/VX 아요/EF ?/SF "/SS
+371,집__01/NNG 에/JKB 가/VV 자/EF ./SF "/SS
+372,"/SS 아니야/IC ,/SP 요새__01/NNG 는/JX 단집/NNG 에/JKB 도/JX 못/MAG 가/VV 아요/EF ./SF
+373,징검다리__01/NNG 에/JKB 오/VV 았/EP 다/EF ./SF
+374,왜/MAG 집__01/NNG 에/JKB 돌아오/VV 지/EC 않/VX 는/ETM 것/NNB 이/VCP ᆯ까/EF ?/SF
+375,엄마/NNG 께서/JKS 는/JX 가끔/MAG 집__01/NNG 에/JKB 오/VV 시/EP ᆫ다/EF ./SF
+376,이제/MAG 그만/MAG 집__01/NNG 에/JKB 가/VV 자/EF ./SF "/SS
+377,"/SS 석순/NNP 아/JKV ,/SP 집__01/NNG 에/JKB 가/VV 아야지/EF ./SF "/SS
+378,야트막/XR 하/XSA ᆫ/ETM 산등성이/NNG 가/JKS 시야__03/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+379,"/SS 언니/NNG 친정__04/NNG 에/JKB 가/VV 시/EP 었/EP 어요/EF ./SF "/SS
+380,미스__03/NNG 송/NNP 은/JX 창__09/NNG 밖/NNG 에/JKB 눈길__01/NNG 을/JKO 던지/VV 었/EP 다/EF ./SF
+381,과연__01/MAG 자기/NP 딸__01/NNG 을/JKO 매춘/NNG 굴__04/NNG 에/JKB 보내/VV 었/EP 을까요/EF ?/SF
+382,"/SS 고향__02/NNG 댁/NNG 에/JKB 내려가/VV 시/EP 었/EP 습니다/EF ./SF
+383,빨리/MAG 집__01/NNG 에/JKB 가/VV 거라/EF ./SF
+384,(/SS 봉당__04/NNG 에/JKB 성큼/MAG 다가서/VV ᆫ다/EF ./SF )/SS
+385,외국인/NNG ,/SP 들/XSN 은/JX 말없이/MAG 버스__02/NNG 에/JKB 올라타/VV 았/EP 다/EF ./SF
+386,시장__04/NNG 에/JKB 도/JX 그/NP 들/XSN 은/JX 같이/MAG 가/VV 았/EP 다/EF ./SF
+387,어느/MM 날__01/NNG 우리/NP 친구__02/NNG 들/XSN 은/JX 미팅/NNG 에/JKB 나가/VV 았/EP 다/EF ./SF
+388,인체/NNG 의/JKG 비례__01/NNG 가/JKS 눈__01/NNG 에/JKB 들어오/VV 았/EP 다/EF ./SF
+389,속초/NNP 에/JKB ᆯ/JKO 가/VV 았/EP 어/EF ./SF
+390,"/SS 나/NP ᆫ/JX 학교/NNG 에/JKB 가/VV 아야/EC 하/VX 겠/EP 어/EF ./SF
+391,빨리/MAG 병원__02/NNG 에/JKB 가/VV 아/EC 보/VX 아/EF ./SF "/SS
+392,천당/NNG 에/JKB 가/VV 아야죠/EF ./SF "/SS
+393,품이/NNP 는/JX 필례/NNP 와/JKB 함께/MAG 열차__02/NNG 에/JKB 오르/VV 았/EP 습니다/EF ./SF
+394,"/SS 약국__02/NNG 에/JKB 좀/MAG 다녀오/VV 느라구요/EF ./SF
+395,빨리/MAG 병원__02/NNG 에/JKB 가/VV 아서/EC 확인__02/NNG 하/XSV 아야/EC 하/VX ᆫ다/EF ./SF
+396,종점/NNG 에/JKB 가/VV 아/EC 보/VX 자/EF !/SF "/SS
+397,2/SN 년__02/NNB 째/XSN 모임__01/NNG 에/JKB 꼬박꼬박__02/MAG 나가/VV 고/EC 있/VX 다/EF ./SF
+398,"/SS 병원__02/NNG 에/JKB 같이/MAG 가/VV 아/EC 보/VX 자구/EF ./SF
+399,"/SS 어머니/NNG ,/SP 집__01/NNG 에/JKB 가/VV 아/EF ./SF "/SS
+400,"/SS 우리/NP 미스__03/NNG 민/NNP 집__01/NNG 에/JKB 가/VV 아/EC 보/VX 아요/EF ./SF
+401,그리고/MAJ 차__06/NNG 에/JKB 오르/VV 았/EP 다/EF ./SF
+402,"/SS 우리/NP 참외__01/NNG 막__05/NNG 에/JKB 가/VV 아/EC 보/VX ᆯ까요/EF ?/SF "/SS
+403,가끔/MAG 은/JX 서점__03/NNG 에/JKB 가/VV 아/EC 보/VX 라/EF ./SF
+404,"/SS 어머니/NNG ,/SP 그만/MAG 집__01/NNG 에/JKB 가/VV 아/EF ./SF "/SS
+405,"/SS 어서/MAG 미국/NNP 에/JKB 들어가__01/VV 아야/EC 하/VX 는데/EF ./SF
+406,"/SS 그런데/MAJ 왜/MAG 집__01/NNG 에/JKB 안/MAG 오/VV 아/EF ?/SF "/SS
+407,내일/NNG 은/JX 제기동/NNP 에/JKB 가/VV 는/ETM 날__01/NNG 이/VCP 다/EF ./SF
+408,다른/MM 사회__07/NNG 기관__11/NNG 에/JKB 도/JX 보내/VV 고요/EF ./SF "/SS
+409,"/SS 너/NP 오늘/MAG 밖/NNG 에/JKB 좀/MAG 나오/VV 아라/EF ./SF "/SS
+410,그러나/MAJ 병원__02/NNG 에/JKB 가/VV 지/EC 는/JX 않/VX 았/EP 다/EF ./SF
+411,밖/NNG 에/JKB 나가/VV 고/EC 싶/VX 은가/EC 보/VX 아요/EF ./SF
+412,아무튼/MAG ,/SP 나/NP 는/JX 집__01/NNG 에/JKB 돌아가/VV 겠/EP 다/EF ./SF )/SS
+413,-/SS 교실/NNG 에/JKB 들어가__01/VV 아서/EC 말__01/NNG 이/VCP 다/EF ./SF
+414,-/SS 너/NP 네/XSN 집__01/NNG 에/JKB 가/VV 자/EF ./SF
+415,바다/NNG 에/JKB …/SE …/SE 가/VV 고/EC 싶/VX 어/EF ./SF
+416,그/MM 뒤__01/NNG 다시/MAG 는/JX 고향__02/NNG 에/JKB 돌아가/VV 지/EC 못하/VX 았/EP 다/EF ./SF
+417,빵집/NNG 에/JKB 도/JX 가/VV 아요/EF ./SF
+418,재석이/NNP 는/JX 다음날/NNG 학교/NNG 에/JKB 오/VV 지/EC 않/VX 았/EP 다/EF ./SF
+419,그녀/NP 가/JKS 그/NP 의/JKG 어깨__01/NNG 에/JKB 손__01/NNG 을/JKO 올리__01/VV 었/EP 다/EF ./SF
+420,그/NP 는/JX 시선__03/NNG 에/JKB 모든/MM 정기__12/NNG 를/JKO 모으/VV 았/EP 다/EF ./SF
+421,승주/NNP 는/JX 좀/MAG 다른/MM 목적__03/NNG 으로/JKB 펜팔부/NNG 에/JKB 들__01/VV 었/EP 다/EF ./SF
+422,회사__04/NNG 에/JKB 다니/VV 고/EC 있/VX 습니다/EF ./SF "/SS
+423,어느/MM 학교/NNG 에/JKB 다니/VV 느냐/EF ?/SF
+424,건강__03/NNG 과/JC 풍년/NNG 과/JC 행복__02/NNG 이/JKS 우리/NP 가슴__01/NNG 에/JKB 안기__01/VV 어라/EF ./SF
+425,그/MM 이튿날/NNG 은/JX 회관/NNG 에/JKB 나오/VV 지/EC 않/VX 았/EP 다/EF ./SF
+426,내일/NNG 우리/NP 남산공원/NNP 에/JKB 가/VV 아/EC 보/VX ᆯ까/EF ?/SF "/SS
+427,나/NP 는/JX 방바닥/NNG 에/JKB 떨어지/VV 고/EC 말/VX 았/EP 습니다/EF ./SF
+428,나/NP 는/JX 아이__01/NNG 들/XSN 과/JKB 도/JX 노래방/NNG 에/JKB 자주/MAG 가/VV ᆫ다/EF ./SF
+429,아마/MAG 화장실/NNG 에/JKB 다녀오/VV 는/ETM 길__01/NNG 이/VCP ᆫ/ETM 모양__02/NNG 이/VCP 다/EF ./SF
+430,심지어/MAG 야간/NNG 업소/NNG 에/JKB 다니/VV 기/ETN 도/JX 하/VX ᆫ다/EF ./SF
+431,그리고/MAJ 이/NNP 조사관/NNG 은/JX 현장__03/NNG 에/JKB 나가/VV 아/EC 법인__02/NNG 의/JKG 매출/NNG ./SF
+432,"/SS 우리/NP 집__01/NNG 에/JKB 도/JX 한번/NNG 오/VV 아/EC 보/VX 아야지/EF ./SF
+433,집__01/NNG 에/JKB 못/MAG 들어가__01/VV ᆫ/ETM 지__02/NNB 벌써/MAG 일주일/NNG ./SF
+434,"/SS 이놈/NP ,/SP 왜/MAG 학교/NNG 에/JKB ᆫ/JX 안/MAG 댕기/VV 어/EF ?/SF "/SS
+435,"/SS 고향__02/NNG 에/JKB 좀/MAG 다녀오/VV ᆯ까/EC 하/VX ᄇ니다/EF ./SF
+436,물__01/NNG 속__01/NNG 에/JKB 손__01/NNG 을/JKO 잠그__01/VV 았/EP 다/EF ./SF
+437,아마도/MAG 저/MM 상자__10/NNG 에/JKB 돈__01/NNG 을/JKO 넣/VV 으려나/EC 보/VX 아/EF ./SF "/SS
+438,호적__02/NNG 에/JKB 도/JX 못/MAG 오르/VV 고/EF ./SF
+439,마치/MAG 바위__01/NNG 에/JKB 계란/NNG 을/JKO 던지/VV 는/ETM 격/NNB 이/VCP 었/EP 다/EF ./SF
+440,"/SS 하여튼/MAG 집__01/NNG 에/JKB ᆫ/JX 안/MAG 가/VV 아/EF !/SF "/SS
+441,뭐/IC 나/NP 보고/JKB 무간지옥/NNG 에/JKB 떨어지/VV 라고/EF ./SF
