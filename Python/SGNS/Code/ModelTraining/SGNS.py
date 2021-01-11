@@ -72,7 +72,7 @@ class SGNS_Algorithm:
         else:
             embedding_size = 500
 
-        embedding_model = Word2Vec(headlines, size=embedding_size, window=self.windowsize, min_count=0, workers=4, iter=self.iteration_num, sg=1)
+        embedding_model = Word2Vec(headlines, size=embedding_size, window=self.windowsize, min_count=0, workers=4, iter=self.iteration_num, sg=1, negative=15, ns_exponent=0.75)
 
         matrix = []
         indxnum = 0
