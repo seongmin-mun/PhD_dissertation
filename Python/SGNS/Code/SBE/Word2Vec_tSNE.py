@@ -75,7 +75,7 @@ class SGNS_tSNE_Algorithm:
             else:
                 embedding_size = 500
 
-            embedding_model = Word2Vec(headlines, size=embedding_size, window=j, min_count=0, workers=4, iter=100, sg=1)
+            embedding_model = Word2Vec(headlines, size=embedding_size, window=j, min_count=0, workers=4, iter=100, sg=1, negative=15, ns_exponent=0.75)
 
             matrix = []
             indxnum = 0
